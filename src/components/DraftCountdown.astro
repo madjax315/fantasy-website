@@ -1,0 +1,206 @@
+---
+
+---
+
+<div class="draft-banner">
+
+    <div class="draft-title">
+        2026 LEAGUE OF ORDINARY GENTLEMEN DRAFT
+    </div>
+
+    <div class="countdown-grid">
+
+        <div class="time-box">
+            <span id="days">000</span>
+            <small>DAYS</small>
+        </div>
+
+        <div class="time-box">
+            <span id="hours">00</span>
+            <small>HOURS</small>
+        </div>
+
+        <div class="time-box">
+            <span id="minutes">00</span>
+            <small>MINUTES</small>
+        </div>
+
+        <div class="time-box">
+            <span id="seconds">00</span>
+            <small>SECONDS</small>
+        </div>
+
+    </div>
+
+    <div class="draft-info">
+        Saturday, August 29, 2026 • 1:00 PM CST
+    </div>
+
+    <div class="draft-address">
+        Draft Address: 1245 Club Road, Woodstock, IL 60098
+    </div>
+
+</div>
+
+<script is:inline>
+
+window.addEventListener("DOMContentLoaded", () => {
+
+    const draftDate = new Date("2026-08-29T13:00:00");
+
+    const daysEl = document.getElementById("days");
+    const hoursEl = document.getElementById("hours");
+    const minutesEl = document.getElementById("minutes");
+    const secondsEl = document.getElementById("seconds");
+    const countdownGrid = document.querySelector(".countdown-grid");
+
+    if (
+        !daysEl ||
+        !hoursEl ||
+        !minutesEl ||
+        !secondsEl ||
+        !countdownGrid
+    ) {
+        return;
+    }
+
+    function updateCountdown() {
+
+        const now = new Date();
+
+        const diff = draftDate.getTime() - now.getTime();
+
+        if (diff <= 0) {
+
+            countdownGrid.innerHTML = "<h2>THE DRAFT IS HERE!</h2>";
+
+            return;
+
+        }
+
+        const dayValue = Math.floor(diff / (1000 * 60 * 60 * 24));
+
+        const hourValue = Math.floor(
+            (diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
+        );
+
+        const minuteValue = Math.floor(
+            (diff % (1000 * 60 * 60)) / (1000 * 60)
+        );
+
+        const secondValue = Math.floor(
+            (diff % (1000 * 60)) / 1000
+        );
+
+        daysEl.textContent = String(dayValue).padStart(3, "0");
+        hoursEl.textContent = String(hourValue).padStart(2, "0");
+        minutesEl.textContent = String(minuteValue).padStart(2, "0");
+        secondsEl.textContent = String(secondValue).padStart(2, "0");
+
+    }
+
+    updateCountdown();
+
+    setInterval(updateCountdown, 1000);
+
+});
+
+</script>
+
+<style>
+
+.draft-banner{
+
+    width:100%;
+    background:#D4AF37;
+    padding:30px 20px;
+    text-align:center;
+    color:#111;
+
+}
+
+.draft-title{
+
+    font-size:2rem;
+    font-weight:800;
+    letter-spacing:3px;
+    margin-bottom:25px;
+
+}
+
+.countdown-grid{
+
+    display:flex;
+    justify-content:center;
+    gap:25px;
+    flex-wrap:wrap;
+
+}
+
+.time-box{
+
+    background:#111;
+    color:white;
+    width:130px;
+    border-radius:14px;
+    padding:18px;
+    border:3px solid #B08D2C;
+    box-shadow:0 6px 20px rgba(0,0,0,.35);
+
+}
+
+.time-box span{
+
+    display:block;
+    font-size:3rem;
+    font-weight:900;
+    color:#D4AF37;
+
+}
+
+.time-box small{
+
+    font-size:.9rem;
+    letter-spacing:2px;
+
+}
+
+.draft-info{
+
+    margin-top:25px;
+    font-size:1.2rem;
+    font-weight:700;
+
+}
+
+.draft-address{
+
+    margin-top:10px;
+    font-size:1rem;
+    font-weight:600;
+
+}
+
+@media(max-width:800px){
+
+    .draft-title{
+
+        font-size:1.3rem;
+
+    }
+
+    .time-box{
+
+        width:95px;
+
+    }
+
+    .time-box span{
+
+        font-size:2rem;
+
+    }
+
+}
+
+</style>

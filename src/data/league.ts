@@ -55,5 +55,4 @@ export const league = [
     contractYearsUsed: 4
   },
 
-  // Continue with every owner...
 ]; 
