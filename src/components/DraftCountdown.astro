@@ -5,7 +5,7 @@
 <div class="draft-banner">
 
     <div class="draft-title">
-        DRAFT COUNTDOWN
+        2026 LEAGUE DRAFT COUNTDOWN
     </div>
 
     <div class="countdown-grid">
@@ -33,11 +33,11 @@
     </div>
 
     <div class="draft-info">
-        Saturday, September 5th, 2026 • 5:00 PM CST
+        Saturday, September 5, 2026 • 5:00 PM CDT
     </div>
 
     <div class="draft-address">
-        Address: 1245 Club Road, Woodstock, IL 60098
+        1245 Club Road, Woodstock, IL 60098
     </div>
 
 </div>
@@ -46,7 +46,7 @@
 
 window.addEventListener("DOMContentLoaded", () => {
 
-    const draftDate = new Date("2026-09-05T18:00:00");
+    const draftDate = new Date("2026-09-05T17:00:00");
 
     const daysEl = document.getElementById("days");
     const hoursEl = document.getElementById("hours");
@@ -72,7 +72,8 @@ window.addEventListener("DOMContentLoaded", () => {
 
         if (diff <= 0) {
 
-            countdownGrid.innerHTML = "<h2>THE DRAFT IS HERE!</h2>";
+            countdownGrid.innerHTML =
+                "<h2>THE DRAFT IS HERE!</h2>";
 
             return;
 
@@ -81,11 +82,13 @@ window.addEventListener("DOMContentLoaded", () => {
         const dayValue = Math.floor(diff / (1000 * 60 * 60 * 24));
 
         const hourValue = Math.floor(
-            (diff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)
+            (diff % (1000 * 60 * 60 * 24)) /
+            (1000 * 60 * 60)
         );
 
         const minuteValue = Math.floor(
-            (diff % (1000 * 60 * 60)) / (1000 * 60)
+            (diff % (1000 * 60 * 60)) /
+            (1000 * 60)
         );
 
         const secondValue = Math.floor(
@@ -113,91 +116,131 @@ window.addEventListener("DOMContentLoaded", () => {
 
     width:100%;
     background:#D4AF37;
-    padding:30px 20px;
-    text-align:center;
     color:#111;
+
+    text-align:center;
+
+    padding:28px 18px;
+
+    box-shadow:0 4px 12px rgba(0,0,0,.25);
 
 }
 
 .draft-title{
 
-    font-size:2rem;
-    font-weight:800;
-    letter-spacing:3px;
-    margin-bottom:25px;
+    font-size:clamp(1.4rem,3vw,2.2rem);
+
+    font-weight:900;
+
+    letter-spacing:2px;
+
+    margin-bottom:24px;
 
 }
 
 .countdown-grid{
 
-    display:flex;
-    justify-content:center;
-    gap:25px;
-    flex-wrap:wrap;
+    display:grid;
+
+    grid-template-columns:repeat(4,1fr);
+
+    gap:14px;
+
+    width:min(650px,95%);
+
+    margin:0 auto;
 
 }
 
 .time-box{
 
     background:#111;
+
     color:white;
-    width:80x;
-    border-radius:10px;
-    padding:18px;
-    border:3px solid #B08D2C;
-    box-shadow:0 6px 20px rgba(0,0,0,.35);
+
+    width:100%;
+
+    border:2px solid #B08D2C;
+
+    border-radius:12px;
+
+    padding:14px 8px;
+
+    display:flex;
+
+    flex-direction:column;
+
+    justify-content:center;
+
+    align-items:center;
+
+    min-height:100px;
+
+    box-shadow:0 6px 16px rgba(0,0,0,.35);
 
 }
 
 .time-box span{
 
     display:block;
-    font-size:2rem;
+
+    font-size:clamp(1.7rem,4vw,2.6rem);
+
     font-weight:900;
+
+    line-height:1;
+
     color:#D4AF37;
 
 }
 
 .time-box small{
 
-    font-size:.6rem;
+    margin-top:8px;
+
+    font-size:clamp(.55rem,1.3vw,.8rem);
+
     letter-spacing:1px;
+
+    font-weight:700;
 
 }
 
 .draft-info{
 
-    margin-top:25px;
-    font-size:1.2rem;
+    margin-top:24px;
+
+    font-size:clamp(.95rem,2vw,1.2rem);
+
     font-weight:700;
 
 }
 
 .draft-address{
 
-    margin-top:10px;
-    font-size:1rem;
+    margin-top:8px;
+
+    font-size:clamp(.85rem,1.8vw,1rem);
+
     font-weight:600;
 
 }
 
-@media(max-width:800px){
+@media (max-width:600px){
 
-    .draft-title{
+    .countdown-grid{
 
-        font-size:1.3rem;
+        gap:8px;
+
+        width:98%;
 
     }
 
     .time-box{
 
-        width:95px;
+        padding:10px 4px;
 
-    }
-
-    .time-box span{
-
-        font-size:2rem;
+        min-height:82px;
 
     }
 
