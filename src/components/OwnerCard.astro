@@ -1,0 +1,111 @@
+---
+interface Keeper {
+    player: string;
+    round: number;
+    years: number;
+    signed: number;
+}
+
+interface Props {
+    manager: string;
+    keepers: Keeper[];
+}
+
+const { manager, keepers } = Astro.props;
+---
+
+<div class="owner-card">
+
+    <div class="owner-header">
+        <h2>{manager}</h2>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="keepers">
+
+        {keepers.map((keeper) => (
+
+            <div class="keeper">
+
+                <div class="player">
+                    {keeper.player}
+                </div>
+
+                <div class="details">
+                    Round {keeper.round} | {keeper.years} Year Contract | Signed {keeper.signed}
+                </div>
+
+            </div>
+
+        ))}
+
+    </div>
+
+</div>
+
+<style>
+
+.owner-card{
+    background:#181818;
+    border:1px solid #D4AF37;
+    border-radius:14px;
+    padding:18px;
+    color:white;
+    box-shadow:0 8px 20px rgba(0,0,0,.45);
+    transition:.25s;
+    height:100%;
+}
+
+.owner-card:hover{
+    transform:translateY(-4px);
+    box-shadow:0 15px 35px rgba(212,175,55,.18);
+}
+
+.owner-header{
+    text-align:center;
+}
+
+.owner-header h2{
+    margin:0;
+    color:#D4AF37;
+    font-size:1.35rem;
+    font-weight:700;
+}
+
+.divider{
+    height:1px;
+    background:#333;
+    margin:16px 0;
+}
+
+.keepers{
+    display:flex;
+    flex-direction:column;
+    gap:14px;
+}
+
+.keeper{
+    padding-bottom:12px;
+    border-bottom:1px solid rgba(255,255,255,.06);
+}
+
+.keeper:last-child{
+    border-bottom:none;
+    padding-bottom:0;
+}
+
+.player{
+    color:white;
+    font-size:1rem;
+    font-weight:600;
+}
+
+.details{
+    margin-top:4px;
+    color:#9c9c9c;
+    font-size:.82rem;
+    line-height:1.4;
+}
+
+</style>

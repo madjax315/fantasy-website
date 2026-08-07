@@ -1,0 +1,37 @@
+---
+const members = [
+  { manager: "Evan", driver: "John H Nemecheck" },
+  { manager: "Ryan", driver: "Erik Jones" },
+  { manager: "Wyatt", driver: "Josh Berry" },
+  { manager: "Colin", driver: "Daniel Suárez" },
+  { manager: "Shawn", driver: "Michael McDowell" },
+  { manager: "Keen", driver: "Ross Chastain" },
+  { manager: "Jas", driver: "Austin Cindric" },
+  { manager: "Chris", driver: "AJ Allmendinger" },
+  { manager: "Matt", driver: "Austin Dillon" },
+  { manager: "Dev", driver: "Ricky Stenhouse Jr." },
+  { manager: "Taylor", driver: "Shane van Gisbergen" },
+];
+---
+
+<section class="league-card">
+    <h2>League Members</h2>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Manager</th>
+                <th>NASCAR Driver</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            {members.map(member => (
+                <tr>
+                    <td>{member.manager}</td>
+                    <td>{member.driver}</td>
+                </tr>
+            ))}
+        </tbody>
+    </table>
+</section>

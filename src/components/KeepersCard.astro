@@ -1,0 +1,174 @@
+---
+import OwnerCard from "./OwnerCard.astro";
+
+const owners = [
+
+{
+manager:"Evan Finger",
+nascar:"Ty Dillon",
+contractYearsUsed:2,
+keepers:[
+{player:"Bo Nix",round:8,years:2,signed:2025},
+{player:"Courtland Sutton",round:7,years:2,signed:2025},
+{player:"Chris Godwin",round:9,years:1,signed:2026},
+]
+},
+
+{
+manager:"Ryan Finger",
+nascar:"Erik Jones",
+contractYearsUsed:4,
+keepers:[
+{player:"Jalen Hurts",round:4,years:2,signed:2025},
+{player:"Ladd McConkey",round:10,years:2,signed:2025},
+{player:"George Pickens",round:7,years:2,signed:2026},
+]
+},
+
+{
+manager:"Wyatt MacGaffey",
+nascar:"Josh Berry",
+contractYearsUsed:4,
+keepers:[
+{player:"De'Von Achane",round:3,years:2,signed:2025},
+{player:"Tee Higgins",round:5,years:2,signed:2025},
+{player:"Tucker Kraft",round:11,years:2,signed:2026},
+]
+},
+
+{
+manager:"Colin MacGaffey",
+nascar:"Daniel Suárez",
+contractYearsUsed:2,
+keepers:[
+{player:"Jayden Daniels",round:6,years:3,signed:2025},
+]
+},
+
+{
+manager:"Shawn Lenahan",
+nascar:"Michael McDowell",
+contractYearsUsed:4,
+keepers:[
+{player:"Josh Allen",round:4,years:3,signed:2025},
+{player:"Jakobi Meyers",round:7,years:2,signed:2026},
+]
+},
+
+{
+manager:"Ryan Keener",
+nascar:"Ross Chastain",
+contractYearsUsed:5,
+keepers:[
+{player:"Brian Thomas Jr.",round:11,years:3,signed:2025},
+{player:"Caleb Williams",round:12,years:2,signed:2026},
+{player:"Jaylen Waddle",round:6,years:1,signed:2026},
+]
+},
+
+{
+manager:"Jas Gill",
+nascar:"Austin Cindric",
+contractYearsUsed:4,
+keepers:[
+{player:"Dak Prescott",round:7,years:2,signed:2026},
+{player:"Tre Tucker",round:8,years:2,signed:2026},
+]
+},
+
+{
+manager:"Chris Ruiz",
+nascar:"AJ Allmendinger",
+contractYearsUsed:5,
+keepers:[
+{player:"Brock Bowers",round:9,years:2,signed:2025},
+{player:"Emeka Egbuka",round:6,years:3,signed:2026},
+{player:"Jaxson Dart",round:8,years:1,signed:2026},
+]
+},
+
+{
+manager:"Matt Wynn",
+nascar:"Austin Dillon",
+contractYearsUsed:2,
+keepers:[
+{player:"Nico Collins",round:3,years:3,signed:2025},
+]
+},
+
+{
+manager:"Devang Patel",
+nascar:"Ricky Stenhouse Jr.",
+contractYearsUsed:2,
+keepers:[
+{player:"Malik Nabers",round:3,years:3,signed:2025},
+]
+},
+
+{
+manager:"Taylor Ewashinka",
+nascar:"Shane van Gisbergen",
+contractYearsUsed:5,
+keepers:[
+{player:"Jaxon Smith-Njigba",round:8,years:2,signed:2025},
+{player:"Cam Skattebo",round:9,years:2,signed:2026},
+{player:"Quinshon Judkins",round:5,years:2,signed:2026},
+]
+}
+
+];
+---
+
+<section>
+
+<h1 class="title">
+
+🏈 2026 Keepers
+
+</h1>
+
+<div class="grid">
+
+{
+
+owners.map(owner=>(
+
+<OwnerCard {...owner} />
+
+))
+
+}
+
+</div>
+
+</section>
+
+<style>
+
+.title{
+
+    text-align:center;
+
+    color:#D4AF37;
+
+    margin:40px;
+
+    font-size:2rem;
+
+}
+
+.grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(340px,1fr));
+
+    gap:28px;
+
+    max-width:1400px;
+
+    margin:auto;
+
+}
+
+</style>
