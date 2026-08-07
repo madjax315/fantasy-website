@@ -37,7 +37,7 @@
     </div>
 
     <div class="draft-address">
-        Draft Address: 1245 Club Road, Woodstock, IL 60098
+        Address: 1245 Club Road, Woodstock, IL 60098
     </div>
 
 </div>
@@ -85,16 +85,12 @@ window.addEventListener("DOMContentLoaded", () => {
 
         const minuteValue = Math.floor(
             (diff % (1000 * 60 * 60)) / (1000 * 60)
-        );
 
-        const secondValue = Math.floor(
-            (diff % (1000 * 60)) / 1000
         );
 
         daysEl.textContent = String(dayValue).padStart(3, "0");
         hoursEl.textContent = String(hourValue).padStart(2, "0");
         minutesEl.textContent = String(minuteValue).padStart(2, "0");
-        secondsEl.textContent = String(secondValue).padStart(2, "0");
 
     }
 
