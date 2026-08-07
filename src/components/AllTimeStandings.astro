@@ -1,0 +1,44 @@
+---
+const standings = [
+  { rank: 1, owner: "Ryan", record: "20-8" },
+{ rank: 3, owner: "Dev", record: "18-10" },
+  { rank: 2, owner: "Evan", record: "18-10" },
+  { rank: 4, owner: "Wyatt", record: "16-12" },
+  { rank: 5, owner: "Shawn", record: "16-12" },
+  { rank: 6, owner: "Matth", record: "15-13" },
+  { rank: 7, owner: "Keen", record: "13-15" },
+  { rank: 8, owner: "Taylor", record: "13-15" },
+  { rank: 9, owner: "Bos (Former)", record: "12-16" },
+  { rank: 10, owner: "Colin", record: "11-17" },
+  { rank: 11, owner: "Christopher", record: "9-19" },
+  { rank: 12, owner: "Jas", record: "7-21" }
+];
+---
+
+<section class="league-card">
+
+    <div class="card-header">
+        All Time Regular Season Standings
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Rank</th>
+                <th>Owner</th>
+                <th>Record</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            {standings.map((team) => (
+                <tr>
+                    <td>{team.rank}</td>
+                    <td>{team.owner}</td>
+                    <td>{team.record}</td>
+                </tr>
+            ))}
+        </tbody>
+    </table>
+
+</section>
