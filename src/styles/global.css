@@ -478,105 +478,122 @@ tbody tr:hover{
     padding: 10px 8px;
     font-size: 0.9rem;
     overflow-wrap: break-word;
-    word-wrap: break-word;
 }
 
-/* Manager */
 .league-card th:nth-child(1),
 .league-card td:nth-child(1) {
-    width: 20%;
+    width: 21%;
 }
 
-/* NASCAR Driver */
 .league-card th:nth-child(2),
 .league-card td:nth-child(2) {
-    width: 40%;
+    width: 37%;
 }
 
-/* Qualifying */
 .league-card th:nth-child(3),
 .league-card td:nth-child(3) {
-    width: 20%;
+    width: 21%;
     text-align: center;
 }
 
-/* Race Finish */
 .league-card th:nth-child(4),
 .league-card td:nth-child(4) {
-    width: 20%;
+    width: 21%;
     text-align: center;
 }
 
 
 /* =========================================================
-   TABLET / MOBILE
+   MOBILE
    ========================================================= */
 
 @media (max-width: 700px) {
 
     .league-card {
-        padding: 14px 8px;
-    }
-
-    .league-card table {
-        width: 100%;
+        padding: 14px 6px;
     }
 
     .league-card th {
         padding: 8px 3px;
-        font-size: 0.68rem;
+        font-size: 0.75rem;
         line-height: 1.15;
     }
 
     .league-card td {
-        padding: 9px 3px;
-        font-size: 0.72rem;
-        line-height: 1.2;
+        padding: 10px 3px;
+        font-size: 0.80rem;
+        line-height: 1.25;
     }
 
     .league-card th:nth-child(1),
     .league-card td:nth-child(1) {
-        width: 19%;
+        width: 21%;
     }
 
     .league-card th:nth-child(2),
     .league-card td:nth-child(2) {
-        width: 41%;
+        width: 37%;
     }
 
     .league-card th:nth-child(3),
     .league-card td:nth-child(3) {
-        width: 20%;
+        width: 21%;
     }
 
     .league-card th:nth-child(4),
     .league-card td:nth-child(4) {
-        width: 20%;
+        width: 21%;
     }
 
 }
 
 
 /* =========================================================
-   SMALL PHONES
+   SMALL PHONES / IPHONE
    ========================================================= */
 
 @media (max-width: 450px) {
 
     .league-card {
-        padding-left: 4px;
-        padding-right: 4px;
+        padding-left: 3px;
+        padding-right: 3px;
     }
 
     .league-card th {
-        padding: 7px 2px;
-        font-size: 0.58rem;
+        padding: 8px 2px;
+        font-size: 0.70rem;
+        line-height: 1.15;
         letter-spacing: 0;
     }
 
     .league-card td {
-        padding: 8px 2px;
-        font-size: 0.65rem;
+        padding: 10px 3px;
+        font-size: 0.76rem;
+        line-height: 1.25;
+    }
+
+    /* Give manager a little less room */
+
+    .league-card th:nth-child(1),
+    .league-card td:nth-child(1) {
+        width: 20%;
+    }
+
+    /* Driver gets the most room */
+
+    .league-card th:nth-child(2),
+    .league-card td:nth-child(2) {
+        width: 38%;
+    }
+
+    .league-card th:nth-child(3),
+    .league-card td:nth-child(3) {
+        width: 21%;
+    }
+
+    .league-card th:nth-child(4),
+    .league-card td:nth-child(4) {
+        width: 21%;
     }
 
 }
