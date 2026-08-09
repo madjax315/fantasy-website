@@ -455,3 +455,128 @@ tbody tr:hover{
         line-height: 1.65;
     }
 }
+
+/* =========================================================
+   IOWA CORN 350 RESPONSIVE TABLE
+   ========================================================= */
+
+.league-card {
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.league-card table {
+    width: 100%;
+    max-width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+.league-card th,
+.league-card td {
+    padding: 10px 8px;
+    font-size: 0.9rem;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+/* Manager */
+.league-card th:nth-child(1),
+.league-card td:nth-child(1) {
+    width: 20%;
+}
+
+/* NASCAR Driver */
+.league-card th:nth-child(2),
+.league-card td:nth-child(2) {
+    width: 40%;
+}
+
+/* Qualifying */
+.league-card th:nth-child(3),
+.league-card td:nth-child(3) {
+    width: 20%;
+    text-align: center;
+}
+
+/* Race Finish */
+.league-card th:nth-child(4),
+.league-card td:nth-child(4) {
+    width: 20%;
+    text-align: center;
+}
+
+
+/* =========================================================
+   TABLET / MOBILE
+   ========================================================= */
+
+@media (max-width: 700px) {
+
+    .league-card {
+        padding: 14px 8px;
+    }
+
+    .league-card table {
+        width: 100%;
+    }
+
+    .league-card th {
+        padding: 8px 3px;
+        font-size: 0.68rem;
+        line-height: 1.15;
+    }
+
+    .league-card td {
+        padding: 9px 3px;
+        font-size: 0.72rem;
+        line-height: 1.2;
+    }
+
+    .league-card th:nth-child(1),
+    .league-card td:nth-child(1) {
+        width: 19%;
+    }
+
+    .league-card th:nth-child(2),
+    .league-card td:nth-child(2) {
+        width: 41%;
+    }
+
+    .league-card th:nth-child(3),
+    .league-card td:nth-child(3) {
+        width: 20%;
+    }
+
+    .league-card th:nth-child(4),
+    .league-card td:nth-child(4) {
+        width: 20%;
+    }
+
+}
+
+
+/* =========================================================
+   SMALL PHONES
+   ========================================================= */
+
+@media (max-width: 450px) {
+
+    .league-card {
+        padding-left: 4px;
+        padding-right: 4px;
+    }
+
+    .league-card th {
+        padding: 7px 2px;
+        font-size: 0.58rem;
+        letter-spacing: 0;
+    }
+
+    .league-card td {
+        padding: 8px 2px;
+        font-size: 0.65rem;
+    }
+
+}
