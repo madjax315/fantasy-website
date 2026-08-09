@@ -1,0 +1,116 @@
+---
+import Layout from "../../layouts/layout.astro";
+import draftText from "../../data/drafts/2025-draft.txt?raw";
+---
+---
+
+<Layout title="2025 Draft Recap">
+
+<section class="draft-page">
+
+    <h1>2024 Draft Recap</h1>
+
+    <p class="subtitle">
+        League of Ordinary Gentlemen
+    </p>
+
+    <pre class="draft-text">
+{draftText}
+    </pre>
+
+</section>
+
+</Layout>
+
+<style>
+
+.draft-page{
+
+    width:min(1400px,95%);
+    margin:40px auto;
+
+    background:#181818;
+
+    border:1px solid #D4AF37;
+
+    border-radius:16px;
+
+    padding:32px;
+
+    box-shadow:0 12px 30px rgba(0,0,0,.45);
+
+}
+
+.draft-page h1{
+
+    margin:0;
+
+    text-align:center;
+
+    color:#D4AF37;
+
+    font-size:2.4rem;
+
+}
+
+.subtitle{
+
+    text-align:center;
+
+    color:#BBBBBB;
+
+    margin:12px 0 30px;
+
+    font-size:1.1rem;
+
+}
+
+.draft-text{
+
+    background:#111;
+
+    color:#F5F5F5;
+
+    border:1px solid #333;
+
+    border-radius:12px;
+
+    padding:24px;
+
+    font-family:Consolas, "Courier New", monospace;
+
+    font-size:.95rem;
+
+    line-height:1.6;
+
+    white-space:pre-wrap;
+
+    overflow-x:auto;
+
+}
+
+@media (max-width:900px){
+
+    .draft-page{
+
+        padding:18px;
+
+    }
+
+    .draft-page h1{
+
+        font-size:1.8rem;
+
+    }
+
+    .draft-text{
+
+        font-size:.82rem;
+
+        padding:16px;
+
+    }
+
+}
+
+</style>
