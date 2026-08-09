@@ -1,640 +1,253 @@
 Round 1
-NO.
-Player
-Team
-1
-Ja'Marr Chase Cin, WR
-Tess tickles
-2
-Justin Jefferson Min, WR
-Taymarlane
-3
-Bijan Robinson Atl, RB
-Going to Waffle House
-4
-Jahmyr Gibbs Det, RB
-Ganja
-5
-Saquon Barkley Phi, RB
-Armadillos
-6
-CeeDee Lamb Dal, WR
-The Short Bus
-7
-Ashton Jeanty LV, RB
-Prestige Worldwide FC
-8
-Christian McCaffrey SF, RB
-Poetic Justice
-9
-Puka Nacua LAR, WR
-Don't Puka The Bear
-10
-Derrick Henry Bal, RB
-Fingr Blaster
-11
-Amon-Ra St. Brown Det, WR
-Better Call Pearsall
-12
-A.J. Brown Phi, WR
-Air Jefferson
+1 Tess tickles, Ja'Marr Chase Cin, WR
+2 Taymarlane, Justin Jefferson Min, WR
+3 Going to Waffle House, Bijan Robinson Atl, RB
+4 Ganja, Jahmyr Gibbs Det, RB
+5 Armadillos, Saquon Barkley Phi, RB
+6 The Short Bus, CeeDee Lamb Dal, WR
+7 Prestige Worldwide FC, Ashton Jeanty LV, RB
+8 Poetic Justice, Christian McCaffrey SF, RB
+9 Don't Puka The Bear, Puka Nacua LAR, WR
+10 Fingr Blaster, Derrick Henry Bal, RB
+11 Better Call Pearsall, Amon-Ra St. Brown Det, WR
+12 Air Jefferson, A.J. Brown Phi, WR
+
+----------
+
 Round 2
-NO.
-Player
-Team
-1
-Josh Jacobs GB, RB
-Air Jefferson
-2
-Tyreek Hill FA, WR
-Better Call Pearsall
-3
-Jonathan Taylor Ind, RB
-Fingr Blaster
-4
-Kyren Williams LAR, RB
-Don't Puka The Bear
-5
-Chase Brown Cin, RB
-Poetic Justice
-6
-James Cook III Buf, RB
-Prestige Worldwide FC
-7
-Kenneth Walker III Sea, RB
-The Short Bus
-8
-Alvin Kamara NO, RB
-Armadillos
-9
-Mike Evans TB, WR
-Ganja
-10
-Aaron Jones Sr. Min, RB
-Going to Waffle House
-11
-Omarion Hampton LAC, RB
-Taymarlane
-12
-Breece Hall NYJ, RB
-Tess tickles
+1 Air Jefferson, Josh Jacobs GB, RB
+2 Better Call Pearsall, Tyreek Hill FA, WR
+3 Fingr Blaster, Jonathan Taylor Ind, RB
+4 Don't Puka The Bear, Kyren Williams LAR, RB
+5 Poetic Justice, Chase Brown Cin, RB
+6 Prestige Worldwide FC, James Cook III Buf, RB
+7 The Short Bus, Kenneth Walker III Sea, RB
+8 Armadillos, Alvin Kamara NO, RB
+9 Ganja, Mike Evans TB, WR
+10 Going to Waffle House, Aaron Jones Sr. Min, RB
+11 Taymarlane, Omarion Hampton LAC, RB
+12 Tess tickles, Breece Hall NYJ, RB
+
+----------
+
 Round 3
-NO.
-Player
-Team
-1
-Marvin Harrison Jr. Ari, WR
-Tess tickles
-2
-TreVeyon Henderson NE, RB
-Taymarlane
-3
-Calvin Ridley Ten, WR
-Going to Waffle House
-4
-Davante Adams LAR, WR
-Ganja
-5
-Tetairoa McMillan Car, WR
-Armadillos
-6
-De'Von Achane Mia, RB
-The Short Bus
-7
-DJ Moore Chi, WR
-Prestige Worldwide FC
-8
-Garrett Wilson NYJ, WR
-Poetic Justice
-9
-Malik Nabers NYG, WR
-Don't Puka The Bear
-10
-Drake London Atl, WR
-Fingr Blaster
-11
-RJ Harvey Den, RB
-Better Call Pearsall
-12
-Nico Collins Hou, WR
-Air Jefferson
+1 Tess tickles, Marvin Harrison Jr. Ari, WR
+2 Taymarlane, TreVeyon Henderson NE, RB
+3 Going to Waffle House, Calvin Ridley Ten, WR
+4 Ganja, Davante Adams LAR, WR
+5 Armadillos, Tetairoa McMillan Car, WR
+6 The Short Bus, De'Von Achane Mia, RB
+7 Prestige Worldwide FC, DJ Moore Chi, WR
+8 Poetic Justice, Garrett Wilson NYJ, WR
+9 Don't Puka The Bear, Malik Nabers NYG, WR
+10 Fingr Blaster, Drake London Atl, WR
+11 Better Call Pearsall, RJ Harvey Den, RB
+12 Air Jefferson, Nico Collins Hou, WR
+
+----------
+
 Round 4
-NO.
-Player
-Team
-1
-Patrick Mahomes KC, QB
-Air Jefferson
-2
-Baker Mayfield TB, QB
-Better Call Pearsall
-3
-Jalen Hurts Phi, QB
-Fingr Blaster
-4
-Isiah Pacheco KC, RB
-Don't Puka The Bear
-5
-D'Andre Swift Chi, RB
-Poetic Justice
-6
-Lamar Jackson Bal, QB
-Prestige Worldwide FC
-7
-David Montgomery Hou, RB
-The Short Bus
-8
-DeVonta Smith Phi, WR
-Armadillos
-9
-Deebo Samuel Wsh, WR
-Ganja
-10
-Brian Robinson Jr. SF, RB
-Going to Waffle House
-11
-Joe Mixon Hou, RB
-Taymarlane
-12
-Josh Allen Buf, QB
-Tess tickles
+1 Air Jefferson, Patrick Mahomes KC, QB
+2 Better Call Pearsall, Baker Mayfield TB, QB
+3 Fingr Blaster, Jalen Hurts Phi, QB
+4 Don't Puka The Bear, Isiah Pacheco KC, RB
+5 Poetic Justice, D'Andre Swift Chi, RB
+6 Prestige Worldwide FC, Lamar Jackson Bal, QB
+7 The Short Bus, David Montgomery Hou, RB
+8 Armadillos, DeVonta Smith Phi, WR
+9 Ganja, Deebo Samuel Wsh, WR
+10 Going to Waffle House, Brian Robinson Jr. SF, RB
+11 Taymarlane, Joe Mixon Hou, RB
+12 Tess tickles, Josh Allen Buf, QB
+
+----------
+
 Round 5
-NO.
-Player
-Team
-1
-Kaleb Johnson Pit, RB
-Tess tickles
-2
-Brock Purdy SF, QB
-Taymarlane
-3
-Jerry Jeudy Cle, WR
-Going to Waffle House
-4
-Travis Etienne Jr. Jax, RB
-Ganja
-5
-Sam LaPorta Det, TE
-Armadillos
-6
-Tee Higgins Cin, WR
-The Short Bus
-7
-DK Metcalf Pit, WR
-Prestige Worldwide FC
-8
-Zay Flowers Bal, WR
-Poetic Justice
-9
-Trey McBride Ari, TE
-Don't Puka The Bear
-10
-Tyrone Tracy Jr. NYG, RB
-Fingr Blaster
-11
-Quinshon Judkins Cle, RB
-Better Call Pearsall
-12
-Rashee Rice KC, WR
-Air Jefferson
+1 Tess tickles, Kaleb Johnson Pit, RB
+2 Taymarlane, Brock Purdy SF, QB
+3 Going to Waffle House, Jerry Jeudy Cle, WR
+4 Ganja, Travis Etienne Jr. Jax, RB
+5 Armadillos, Sam LaPorta Det, TE
+6 The Short Bus, Tee Higgins Cin, WR
+7 Prestige Worldwide FC, DK Metcalf Pit, WR
+8 Poetic Justice, Zay Flowers Bal, WR
+9 Don't Puka The Bear, Trey McBride Ari, TE
+10 Fingr Blaster, Tyrone Tracy Jr. NYG, RB
+11 Better Call Pearsall, Quinshon Judkins Cle, RB
+12 Air Jefferson, Rashee Rice KC, WR
+
+----------
+
 Round 6
-NO.
-Player
-Team
-1
-J.K. Dobbins Den, RB
-Air Jefferson
-2
-Emeka Egbuka TB, WR
-Better Call Pearsall
-3
-Matthew Golden GB, WR
-Fingr Blaster
-4
-Joe Burrow Cin, QB
-Don't Puka The Bear
-5
-Evan Engram Den, TE
-Poetic Justice
-6
-Jaylen Waddle Mia, WR
-Prestige Worldwide FC
-7
-Kyler Murray Ari, QB
-The Short Bus
-8
-Travis Hunter Jax, WR
-Armadillos
-9
-Jayden Daniels Wsh, QB
-Ganja
-10
-Cooper Kupp Sea, WR
-Going to Waffle House
-11
-Colston Loveland Chi, TE
-Taymarlane
-12
-George Kittle SF, TE
-Tess tickles
+1 Air Jefferson, J.K. Dobbins Den, RB
+2 Better Call Pearsall, Emeka Egbuka TB, WR
+3 Fingr Blaster, Matthew Golden GB, WR
+4 Don't Puka The Bear, Joe Burrow Cin, QB
+5 Poetic Justice, Evan Engram Den, TE
+6 Prestige Worldwide FC, Jaylen Waddle Mia, WR
+7 The Short Bus, Kyler Murray Ari, QB
+8 Armadillos, Travis Hunter Jax, WR
+9 Ganja, Jayden Daniels Wsh, QB
+10 Going to Waffle House, Cooper Kupp Sea, WR
+11 Taymarlane, Colston Loveland Chi, TE
+12 Tess tickles, George Kittle SF, TE
+
+----------
+
 Round 7
-NO.
-Player
-Team
-1
-Jakobi Meyers Jax, WR
-Tess tickles
-2
-Josh Downs Ind, WR
-Taymarlane
-3
-Dak Prescott Dal, QB
-Going to Waffle House
-4
-Rome Odunze Chi, WR
-Ganja
-5
-Bo Nix Den, QB
-Armadillos
-6
-David Njoku Cle, TE
-The Short Bus
-7
-James Conner Ari, RB
-Prestige Worldwide FC
-8
-Terry McLaurin Wsh, WR
-Poetic Justice
-9
-Rhamondre Stevenson NE, RB
-Don't Puka The Bear
-10
-George Pickens Dal, WR
-Fingr Blaster
-11
-Tyler Warren Ind, TE
-Better Call Pearsall
-12
-Mark Andrews Bal, TE
-Air Jefferson
+1 Tess tickles, Jakobi Meyers Jax, WR
+2 Taymarlane, Josh Downs Ind, WR
+3 Going to Waffle House, Dak Prescott Dal, QB
+4 Ganja, Rome Odunze Chi, WR
+5 Armadillos, Bo Nix Den, QB
+6 The Short Bus, David Njoku Cle, TE
+7 Prestige Worldwide FC, James Conner Ari, RB
+8 Poetic Justice, Terry McLaurin Wsh, WR
+9 Don't Puka The Bear, Rhamondre Stevenson NE, RB
+10 Fingr Blaster, George Pickens Dal, WR
+11 Better Call Pearsall, Tyler Warren Ind, TE
+12 Air Jefferson, Mark Andrews Bal, TE
+
+----------
+
 Round 8
-NO.
-Player
-Team
-1
-Tony Pollard Ten, RB
-Air Jefferson
-2
-Jaylen Warren Pit, RB
-Better Call Pearsall
-3
-T.J. Hockenson Min, TE
-Fingr Blaster
-4
-Tank Bigsby Phi, RB
-Don't Puka The Bear
-5
-Stefon Diggs NE, WR
-Poetic Justice
-6
-Travis Kelce KC, TE
-Prestige Worldwide FC
-7
-Keon Coleman Buf, WR
-The Short Bus
-8
-Courtland Sutton Den, WR
-Armadillos
-9
-Xavier Worthy KC, WR
-Ganja
-10
-Jauan Jennings SF, WR
-Going to Waffle House
-11
-Jaxon Smith-Njigba Sea, WR
-Taymarlane
-12
-Michael Pittman Jr. Ind, WR
-Tess tickles
+1 Air Jefferson, Tony Pollard Ten, RB
+2 Better Call Pearsall, Jaylen Warren Pit, RB
+3 Fingr Blaster, T.J. Hockenson Min, TE
+4 Don't Puka The Bear, Tank Bigsby Phi, RB
+5 Poetic Justice, Stefon Diggs NE, WR
+6 Prestige Worldwide FC, Travis Kelce KC, TE
+7 The Short Bus, Keon Coleman Buf, WR
+8 Armadillos, Courtland Sutton Den, WR
+9 Ganja, Xavier Worthy KC, WR
+10 Going to Waffle House, Jauan Jennings SF, WR
+11 Taymarlane, Jaxon Smith-Njigba Sea, WR
+12 Tess tickles, Michael Pittman Jr. Ind, WR
+
+----------
+
 Round 9
-NO.
-Player
-Team
-1
-Austin Ekeler Wsh, RB
-Tess tickles
-2
-Rashid Shaheed Sea, WR
-Taymarlane
-3
-Dallas Goedert Phi, TE
-Going to Waffle House
-4
-Zach Ertz Wsh, TE
-Ganja
-5
-Chris Godwin Jr. TB, WR
-Armadillos
-6
-Marvin Mims Jr. Den, WR
-The Short Bus
-7
-Zach Charbonnet Sea, RB
-Prestige Worldwide FC
-8
-Justin Fields NYJ, QB
-Poetic Justice
-9
-Cedric Tillman Cle, WR
-Don't Puka The Bear
-10
-Cam Skattebo NYG, RB
-Fingr Blaster
-11
-Brock Bowers LV, TE
-Better Call Pearsall
-12
-Jerome Ford Cle, RB
-Air Jefferson
+1 Tess tickles, Austin Ekeler Wsh, RB
+2 Taymarlane, Rashid Shaheed Sea, WR
+3 Going to Waffle House, Dallas Goedert Phi, TE
+4 Ganja, Zach Ertz Wsh, TE
+5 Armadillos, Chris Godwin Jr. TB, WR
+6 The Short Bus, Marvin Mims Jr. Den, WR
+7 Prestige Worldwide FC, Zach Charbonnet Sea, RB
+8 Poetic Justice, Justin Fields NYJ, QB
+9 Don't Puka The Bear, Cedric Tillman Cle, WR
+10 Fingr Blaster, Cam Skattebo NYG, RB
+11 Better Call Pearsall, Brock Bowers LV, TE
+12 Air Jefferson, Jerome Ford Cle, RB
+
+----------
+
 Round 10
-NO.
-Player
-Team
-1
-Chris Olave NO, WR
-Air Jefferson
-2
-Jordan Mason Min, RB
-Better Call Pearsall
-3
-Ladd McConkey LAC, WR
-Fingr Blaster
-4
-Romeo Doubs GB, WR
-Don't Puka The Bear
-5
-Drake Maye NE, QB
-Poetic Justice
-6
-Trey Benson Ari, RB
-Prestige Worldwide FC
-7
-Tyjae Spears Ten, RB
-The Short Bus
-8
-Chuba Hubbard Car, RB
-Armadillos
-9
-Javonte Williams Dal, RB
-Ganja
-10
-Xavier Legette Car, WR
-Going to Waffle House
-11
-Elijah Arroyo Sea, TE
-Taymarlane
-12
-Adam Thielen Pit, WR
-Tess tickles
+1 Air Jefferson, Chris Olave NO, WR
+2 Better Call Pearsall, Jordan Mason Min, RB
+3 Fingr Blaster, Ladd McConkey LAC, WR
+4 Don't Puka The Bear, Romeo Doubs GB, WR
+5 Poetic Justice, Drake Maye NE, QB
+6 Prestige Worldwide FC, Trey Benson Ari, RB
+7 The Short Bus, Tyjae Spears Ten, RB
+8 Armadillos, Chuba Hubbard Car, RB
+9 Ganja, Javonte Williams Dal, RB
+10 Going to Waffle House, Xavier Legette Car, WR
+11 Taymarlane, Elijah Arroyo Sea, TE
+12 Tess tickles, Adam Thielen Pit, WR
+
+----------
+
 Round 11
-NO.
-Player
-Team
-1
-Rachaad White TB, RB
-Tess tickles
-2
-Tre' Harris LAC, WR
-Taymarlane
-3
-Tyler Allgeier Atl, RB
-Going to Waffle House
-4
-Nick Chubb Hou, RB
-Ganja
-5
-Darnell Mooney Atl, WR
-Armadillos
-6
-Tucker Kraft GB, TE
-The Short Bus
-7
-Brian Thomas Jr. Jax, WR
-Prestige Worldwide FC
-8
-Jameson Williams Det, WR
-Poetic Justice
-9
-Mike Gesicki Cin, TE
-Don't Puka The Bear
-10
-Jayden Reed GB, WR
-Fingr Blaster
-11
-Jordan Addison Min, WR
-Better Call Pearsall
-12
-Jayden Higgins Hou, WR
-Air Jefferson
+1 Tess tickles, Rachaad White TB, RB
+2 Taymarlane, Tre' Harris LAC, WR
+3 Going to Waffle House, Tyler Allgeier Atl, RB
+4 Ganja, Nick Chubb Hou, RB
+5 Armadillos, Darnell Mooney Atl, WR
+6 The Short Bus, Tucker Kraft GB, TE
+7 Prestige Worldwide FC, Brian Thomas Jr. Jax, WR
+8 Poetic Justice, Jameson Williams Det, WR
+9 Don't Puka The Bear, Mike Gesicki Cin, TE
+10 Fingr Blaster, Jayden Reed GB, WR
+11 Better Call Pearsall, Jordan Addison Min, WR
+12 Air Jefferson, Jayden Higgins Hou, WR
+
+----------
+
 Round 12
-NO.
-Player
-Team
-1
-Khalil Shakir Buf, WR
-Air Jefferson
-2
-Luther Burden III Chi, WR
-Better Call Pearsall
-3
-Jaydon Blue Dal, RB
-Fingr Blaster
-4
-Jordan Love GB, QB
-Don't Puka The Bear
-5
-Dalton Kincaid Buf, TE
-Poetic Justice
-6
-Kyle Pitts Sr. Atl, TE
-Prestige Worldwide FC
-7
-Caleb Williams Chi, QB
-The Short Bus
-8
-J.J. McCarthy Min, QB
-Armadillos
-9
-Braelon Allen NYJ, RB
-Ganja
-10
-Raheem Mostert LV, RB
-Going to Waffle House
-11
-Justin Herbert LAC, QB
-Taymarlane
-12
-Hunter Henry NE, TE
-Tess tickles
+1 Air Jefferson, Khalil Shakir Buf, WR
+2 Better Call Pearsall, Luther Burden III Chi, WR
+3 Fingr Blaster, Jaydon Blue Dal, RB
+4 Don't Puka The Bear, Jordan Love GB, QB
+5 Poetic Justice, Dalton Kincaid Buf, TE
+6 Prestige Worldwide FC, Kyle Pitts Sr. Atl, TE
+7 The Short Bus, Caleb Williams Chi, QB
+8 Armadillos, J.J. McCarthy Min, QB
+9 Ganja, Braelon Allen NYJ, RB
+10 Going to Waffle House, Raheem Mostert LV, RB
+11 Taymarlane, Justin Herbert LAC, QB
+12 Tess tickles, Hunter Henry NE, TE
+
+----------
+
 Round 13
-NO.
-Player
-Team
-1
-Tua Tagovailoa Mia, QB
-Tess tickles
-2
-Dylan Sampson Cle, RB
-Taymarlane
-3
-Jared Goff Det, QB
-Going to Waffle House
-4
-Shedeur Sanders Cle, QB
-Ganja
-5
-Isaac Guerendo SF, RB
-Armadillos
-6
-Hollywood Brown KC, WR
-The Short Bus
-7
-Cam Ward Ten, QB
-Prestige Worldwide FC
-8
-Bucky Irving TB, RB
-Poetic Justice
-9
-Cam Little Jax, K
-Don't Puka The Bear
-10
-Broncos D/ST Den, D/ST
-Fingr Blaster
-11
-Kyle Monangai Chi, RB
-Better Call Pearsall
-12
-Eagles D/ST Phi, D/ST
-Air Jefferson
+1 Tess tickles, Tua Tagovailoa Mia, QB
+2 Taymarlane, Dylan Sampson Cle, RB
+3 Going to Waffle House, Jared Goff Det, QB
+4 Ganja, Shedeur Sanders Cle, QB
+5 Armadillos, Isaac Guerendo SF, RB
+6 The Short Bus, Hollywood Brown KC, WR
+7 Prestige Worldwide FC, Cam Ward Ten, QB
+8 Poetic Justice, Bucky Irving TB, RB
+9 Don't Puka The Bear, Cam Little Jax, K
+10 Fingr Blaster, Broncos D/ST Den, D/ST
+11 Better Call Pearsall, Kyle Monangai Chi, RB
+12 Air Jefferson, Eagles D/ST Phi, D/ST
+
+----------
+
 Round 14
-NO.
-Player
-Team
-1
-Brandon Aubrey Dal, K
-Air Jefferson
-2
-Steelers D/ST Pit, D/ST
-Better Call Pearsall
-3
-Jake Bates Det, K
-Fingr Blaster
-4
-Vikings D/ST Min, D/ST
-Don't Puka The Bear
-5
-Ravens D/ST Bal, D/ST
-Poetic Justice
-6
-Bills D/ST Buf, D/ST
-Prestige Worldwide FC
-7
-Texans D/ST Hou, D/ST
-The Short Bus
-8
-Lions D/ST Det, D/ST
-Armadillos
-9
-Buccaneers D/ST TB, D/ST
-Ganja
-10
-Patriots D/ST NE, D/ST
-Going to Waffle House
-11
-Packers D/ST GB, D/ST
-Taymarlane
-12
-Seahawks D/ST Sea, D/ST
-Tess tickles
+1 Air Jefferson, Brandon Aubrey Dal, K
+2 Better Call Pearsall, Steelers D/ST Pit, D/ST
+3 Fingr Blaster, Jake Bates Det, K
+4 Don't Puka The Bear, Vikings D/ST Min, D/ST
+5 Poetic Justice, Ravens D/ST Bal, D/ST
+6 Prestige Worldwide FC, Bills D/ST Buf, D/ST
+7 The Short Bus, Texans D/ST Hou, D/ST
+8 Armadillos, Lions D/ST Det, D/ST
+9 Ganja, Buccaneers D/ST TB, D/ST
+10 Going to Waffle House, Patriots D/ST NE, D/ST
+11 Taymarlane, Packers D/ST GB, D/ST
+12 Tess tickles, Seahawks D/ST Sea, D/ST
+
+----------
+
 Round 15
-NO.
-Player
-Team
-1
-Cameron Dicker LAC, K
-Tess tickles
-2
-Jake Elliott Phi, K
-Taymarlane
-3
-Ka'imi Fairbairn Hou, K
-Going to Waffle House
-4
-Harrison Butker KC, K
-Ganja
-5
-Tyler Bass Buf, K
-Armadillos
-6
-Chase McLaughlin TB, K
-The Short Bus
-7
-Evan McPherson Cin, K
-Prestige Worldwide FC
-8
-Brandon Aiyuk SF, WR
-Poetic Justice
-9
-Isaiah Likely Bal, TE
-Don't Puka The Bear
-10
-Jake Ferguson Dal, TE
-Fingr Blaster
-11
-Tyler Loop Bal, K
-Better Call Pearsall
-12
-Roschon Johnson Chi, RB
-Air Jefferson
+1 Tess tickles, Cameron Dicker LAC, K
+2 Taymarlane, Jake Elliott Phi, K
+3 Going to Waffle House, Ka'imi Fairbairn Hou, K
+4 Ganja, Harrison Butker KC, K
+5 Armadillos, Tyler Bass Buf, K
+6 The Short Bus, Chase McLaughlin TB, K
+7 Prestige Worldwide FC, Evan McPherson Cin, K
+8 Poetic Justice, Brandon Aiyuk SF, WR
+9 Don't Puka The Bear, Isaiah Likely Bal, TE
+10 Fingr Blaster, Jake Ferguson Dal, TE
+11 Better Call Pearsall, Tyler Loop Bal, K
+12 Air Jefferson, Roschon Johnson Chi, RB
+
+----------
+
 Round 16
-NO.
-Player
-Team
-1
-Jonnu Smith Pit, TE
-Air Jefferson
-2
-Ricky Pearsall SF, WR
-Better Call Pearsall
-3
-Jaylen Wright Mia, RB
-Fingr Blaster
-4
-Alec Pierce Ind, WR
-Don't Puka The Bear
-5
-Will Reichard Min, K
-Poetic Justice
-6
-Rashod Bateman Bal, WR
-Prestige Worldwide FC
-7
-MarShawn Lloyd GB, RB
-The Short Bus
-8
-Ray Davis Buf, RB
-Armadillos
-9
-Dalton Schultz Hou, TE
-Ganja
-10
-Tyler Higbee LAR, TE
-Going to Waffle House
-11
-Bhayshul Tuten Jax, RB
-Taymarlane
-12
-Jack Bech LV, WR
-Tess tickles
+1 Air Jefferson, Jonnu Smith Pit, TE
+2 Better Call Pearsall, Ricky Pearsall SF, WR
+3 Fingr Blaster, Jaylen Wright Mia, RB
+4 Don't Puka The Bear, Alec Pierce Ind, WR
+5 Poetic Justice, Will Reichard Min, K
+6 Prestige Worldwide FC, Rashod Bateman Bal, WR
+7 The Short Bus, MarShawn Lloyd GB, RB
+8 Armadillos, Ray Davis Buf, RB
+9 Ganja, Dalton Schultz Hou, TE
+10 Going to Waffle House, Tyler Higbee LAR, TE
+11 Taymarlane, Bhayshul Tuten Jax, RB
+12 Tess tickles, Jack Bech LV, WR
