@@ -379,4 +379,79 @@ tbody tr:hover{
 
     }
 
-} 
+}
+
+/* =========================================================
+   LEAGUE CONSTITUTION
+   ========================================================= */
+
+.constitution-document {
+    width: min(1100px, calc(100% - 32px));
+    margin: 0 auto;
+    padding: 70px 0 100px;
+}
+
+.constitution-document-header {
+    text-align: center;
+    margin-bottom: 32px;
+}
+
+.constitution-document-label {
+    margin: 0 0 10px;
+    color: var(--old-gold);
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.22em;
+}
+
+.constitution-document-header h1 {
+    margin: 0;
+    color: var(--gold);
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    font-weight: 900;
+    line-height: 1;
+    letter-spacing: 0.04em;
+}
+
+.constitution-document-subtitle {
+    margin: 12px 0 0;
+    color: var(--gray);
+    font-size: 1rem;
+}
+
+.constitution-paper {
+    background: var(--dark);
+    border: 1px solid #292929;
+    border-top: 3px solid var(--gold);
+    border-radius: 4px;
+    padding: 40px 45px;
+}
+
+.constitution-paper pre {
+    margin: 0;
+    color: var(--gray);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.95rem;
+    font-weight: 400;
+    line-height: 1.7;
+    white-space: pre-wrap;
+    overflow-wrap: anywhere;
+    word-break: normal;
+    text-align: center;
+}
+
+@media (max-width: 700px) {
+    .constitution-document {
+        width: calc(100% - 20px);
+        padding: 45px 0 70px;
+    }
+
+    .constitution-paper {
+        padding: 25px 20px;
+    }
+
+    .constitution-paper pre {
+        font-size: 0.88rem;
+        line-height: 1.65;
+    }
+}

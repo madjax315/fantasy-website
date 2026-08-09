@@ -1,38 +1,42 @@
 ---
-const members = [
-  { manager: "Taylor", driver: "Shane van Gisbergen" },
-  { manager: "Shawn", driver: "Michael McDowell" },
-  { manager: "Keen", driver: "Ross Chastain" },
-  { manager: "Colin", driver: "Daniel Suárez" },
-  { manager: "Jas", driver: "Austin Cindric" },
-  { manager: "Chris", driver: "AJ Allmendinger" },
-  { manager: "Evan", driver: "John H Nemecheck" },
-  { manager: "Matt", driver: "Austin Dillon" },
-  { manager: "Dev", driver: "Ricky Stenhouse Jr." },
-  { manager: "Ryan", driver: "Erik Jones" },
-  { manager: "Wyatt", driver: "Josh Berry" },
-  { manager: "Josh", driver: "Jahmyr Gibbs"}
-];
+import { league } from "../data/league";
 ---
 
 <section class="league-card">
-    <h2>Get fucking ready for the IOWA CORN 350 on Sunday August 9th! Who's gonna get Bijan? We will start picking draft spots one by one according to our drivers finishing order after the race.</h2>
+
+    <h2>
+        Get fucking ready for the IOWA CORN 350 on Sunday August 9th!
+        Who's gonna get Bijan? We will start picking draft spots one by one
+        according to our drivers finishing order after the race.
+    </h2>
 
     <table>
         <thead>
             <tr>
                 <th>Manager</th>
                 <th>NASCAR Driver</th>
+                <th>Qualifying</th>
+                <th>Race Finish</th>
             </tr>
         </thead>
 
         <tbody>
-            {members.map(member => (
+            {league.map((member) => (
                 <tr>
                     <td>{member.manager}</td>
-                    <td>{member.driver}</td>
+
+                    <td>{member.nascar}</td>
+
+                    <td>
+                        {member.qualifyingPosition}
+                    </td>
+
+                    <td>
+                        {member.finishingPosition ?? "—"}
+                    </td>
                 </tr>
             ))}
         </tbody>
     </table>
+
 </section>

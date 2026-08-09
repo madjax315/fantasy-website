@@ -1,0 +1,366 @@
+Table of Contents
+
+Section 1: Roster Breakdown
+1.1 Positional Breakdown
+1.2 Dynasty
+1.3 Trading
+1.3.1 Trade Collusion
+1.3.2 Trade Deadline
+1.3.3 Trade Restrictions
+1.4 Waiver Wire
+1.5 Divisional Breakdown
+ 
+Section 2: Ownership Expectations
+2.1 League Fee
+2.2 Selling Your Team
+2.3 Removal
+2.4 Voting
+2.5 Prize Money
+2.6 Last Place Punishment
+
+Section 3: Commissioner’s Expectations
+3.1 Term Limits
+3.2 Voting Process
+3.3 Power / Responsibility of Commissioner
+3.4 Power / Responsibility of Co-Commissioner
+ 
+Section 4: Drafting
+4.1 Draft Order
+4.2 Draft Day Trades
+4.3 Draft Date, Location & Time
+ 
+Section 5: Scoring System
+5.1 Voting on Scoring System
+ 
+Section 6: Postseason
+6.1 Playoffs
+6.2 Playoff Tiebreakers
+6.3 Seeding Tiebreakers
+
+Section 7: Amendments
+
+Section 8: History
+8.1 Commissioners
+8.2 Winners
+8.3 Losers / Punishments
+8.4 Awards
+
+Section 1: Roster Breakdown
+ 
+1.1: Positional Breakdown
+ 
+17 Total Players
+ 
+Starters
+QB
+RB
+RB
+WR
+WR
+FLEX
+FLEX
+TE
+D/ST
+DL
+LB
+DB
+K
+ 
+Reserves
+Bench
+Bench
+Bench
+Bench
+Bench
+Bench
+Bench
+IR
+
+
+Type
+QB        = 2 Max
+RB        = 6 Max
+WR       = 7 Max
+TE         = 3 Max
+D/ST     = 3 Max
+K           = 3 Max
+DL	= 3 Max
+LB	= 3 Max
+DB	= 3 Max
+
+
+ 1.2: Keeper (5 total years-3 players-3 year max contract)
+ 
+Before each season you will have the option to retain 3 players from your previous season's roster. (This does not mean you have to keep 3 players; you have the option to retain 1, 2, 3 or none). Each player you keep will cost their draft value from the season drafted. Example, if you drafted said player in the 4th round, this will cost you a 4th round draft pick to retain said player. This will hold true for every player drafted in their respective rounds. For any player that goes undrafted, they will hold the value of an 8th round draft pick. Their value will carry over for every season you retain them. 
+
+A player may be kept under a 1, 2, or 3 year “contract”. The player must be kept for the entire extent of the contract (from keeper declaration day to final playoff game is one year). Players who are under contract can not be dropped, but they CAN be traded, so long as the receiving party does not drop the player and the keeper maximum rules are violated as a result of the trade. The receiving manager inherits the draft round restrictions of the traded players contract. 
+
+Once a “contract” has been fulfilled the player will return to the draft pool.
+
+You have a maximum of five (5) total “contract” years to allocate to your keepers. Example: you cannot have two 3-year contracts, because that would be 6 total years.
+ 
+If you would like to keep two players who were drafted in the same round, through trades or waiver pick ups, you must give up that round and the previous rounds picks. For example, if you want to keep two players drafted in the 6th round, you must give up your 6th and 5th round pick.
+ 
+Players drafted in the first, second, and third round will NOT be eligible to be retained or kept. 
+
+Keepers will be announced to the league publicly. The retaining deadline will be announced every year by the commissioner. 
+
+If a selected keeper is injured before their first game, an owner ay drop that keeper.
+ 
+1.3: Trading
+ 
+-	Owners will have the option to exchange players and draft picks during the trade window (draft picks can only be traded from the date of keeper declaration to the start of the draft). As long as both parties come to an agreement with no foul play the trade will be approved. 
+-	(Expedited trades are eligible upon a league vote). 
+-	The same trade can only be proposed once per week. Jaz.
+ 
+1.3.1: Trade Collusion/Self-Destruction/Tanking
+ 
+o	All trades will be reviewed by the commissioners to make sure no foul play is occurring. If any owners are proven of accepting bribes/offering bribes to enhance their/another owners team/ tanking or self-destructing their team which results in jeopardizing the integrity of the league, under verifiable evidence (i.e. text messages, emails, league data, etc.), they will be susceptible to punishment. 
+The punishments will go as followed: 
+o	 1st Offense -- Remove the ability to trade for that season
+
+o	2nd Offense -- Loss of ability to keep Dynasty Players for 1 season
+
+o	3rd Offense -- Loss of 1st round draft pick…. (other owners vote on said pick for those accused of collusion). Possible Removal / Fine 
+ 
+o	All trades that are found guilty of collusion/tanking/ self-destruction, will be reversed/denied. If the trade had affected the outcome of previous games, the results of those games will be subject to revision upon a league vote.  
+o	Commissioners can reverse and deny trades at anytime if they feel it is necessary to keep the integrity of the league. League can veto commissioner with 100% vote.
+o	Offenses will stay on your record for 2 seasons before being expunged. 
+
+
+1.3.2: Trade Deadline
+ 
+o	The trading market will open right after the Keeper deadline has passed and everyone has announced their Keeper Players.
+o	The trading deadline will be determined by the commissioner each season (or as determined by application.)
+
+(Inactivity Period: Trade Deadline – 4 months after the Superbowl)
+ 
+  
+1.4: Waiver Wire
+-	The waiver wire order, during the season, will be based on the outcome from the first week’s results, and every week thereafter. The order will only change when owners make waiver claims and will be sent to the bottom of the order if said claim is successful.
+
+-	The waiver wire order is initially set after the draft and it is to be the reverse order of the draft order for that year.
+
+
+Section 2: Ownership Expectations
+ 
+2.1: League Fee
+ 
+-	Upon election the commissioner shall set a date for league payment deadline. The owner is expected to pay this fee by the deadline, or they will be subject to losing ownership of their team. The league fee breakdown goes as follows:
+
+●	$95 towards the grand prize.
+●	$5 towards league expenses i.e. draft board, trophy etc...
+
+
+-	The league fee could be subject to change each season based on league expenses. The basis of the league fee will be voted on as a whole to change the total prize money received by the winners.
+
+ 
+2.3: Removal
+ 
+-	The owners can vote to remove any owner from the league at any time. As long as they feel this owner is ruining the integrity of the league and they can provide acceptable evidence (This is up to commissioner interpretation)(must be unanimous vote for removal). 
+-	If any owner is removed it will fall on the Commissioners to replace said owner. If an owner is removed before the start of the fantasy season they will receive a league fee refund. If it accrues during the fantasy season, they will not. The fantasy season starts once the league draft is completed.  
+-	If an owner is removed in the middle of the fantasy season, it will fall on the Commissioner to manage said team until a new owner is found. 
+-	No roster transactions will be allowed to occur with this team until a new owner is found. 
+-	The Co-Commissioner shall take over for weeks when conflicting schedules may emerge.
+
+2.4: Owner Replacement
+
+-	If an owner is voted out of the league their team will finish the season under the commissioners supervision then be dissolved at the end of the season, keeper contracts included. 
+-	The following season the removed owners replacement will be grated their pick in the draft as well as week 1 waiver priority in order to compensate for the not having any keeper opportunities
+
+
+ 
+2.4: Voting
+ 
+-	Each pre-season new rules and regulations will be brought to the attention of the owners at the league draft. All rules and regulations will be voted on and must receive a majority vote to be approved. Majority vote is classified as more than 50%. 
+-	A vote can be brought to the table at any point in the season if at least two managers feel the issue is worth voting on.
+-	Any vote that is unanimous minus the commissioners is not subject to a veto. (Can not veto own removal vote)
+-	Any vote to remove commissioner mid-season must be met with majority approval through a league vote. In such a case the co-commissioner will step up and elect a league player to take their position. 
+-	When a vote is a tie the procedure is as follows: 
+               Debate, Re-vote, Debate, Re-vote, COIN FLIP / Random wheel generator.
+-  Any vote to change/add/remove a rule mid-season must be met with 75% approval in order to come into effect
+ 
+2.5: Prize Money
+                                        	
+-	The first-place winner of the league will receive a grand prize of $855. The runner up will receive $190, and third place will receive $95.
+ 
+2.6: Last Place Punishment
+ 
+-	The owner who finishes in last place during the POSTSEASON will be subject to punishment. 
+-	The punishment will be voted upon by the league. MUST BE AGREED UPON BEFORE THE SEASON STARTS 
+-	Failure to reach an agreement will result in a commissioner appointed punishment(s).
+-	2024-2025 league punishment = 12 hours at a waffle house of their choosing, where every waffle eaten by the loser results in 60 minutes off of their allotted time. The loser must provide proof of the entire completed punishment (time & waffles). 
+-	2025-2026 league punishment = 12 hours at a waffle house of their choosing, where every waffle eaten by the loser results in 60 minutes off of their allotted time. The loser must provide proof of the entire completed punishment (time & waffles). 
+ 
+Section 3: Commissioner Expectations
+
+
+3.3: Power / Responsibility of the Commissioner
+
+-	The commissioner is responsible for all actions listed in this document, including, setting up draft time/place, reviewing owner transactions, conducting collusion trials, veto power, delegating/recording punishments, record-keeping of this constitution, setting trade deadline, solving disputes, tracking history, etc…
+
+3.4: Power / Responsibility of the Co-Commissioner
+
+-	Conduct collusion trials, solve disputes, step-up upon commissioner removal… elect new co-commissioner, responsible for draft day materials, etc. 
+
+Section 4 Drafting
+
+4.1: Draft Order
+
+-	Draft order will be decided during the summer via NASCAR race selection
+
+4.2: Draft Day Trades
+ 
+-	All trades during the league draft must be written down and recorded. After the draft is completed, all trades will be processed. 
+ 
+4.3: Draft Date, Location & Time
+ 
+-	The draft date, location and time will be determined by the commissioner. Multiple dates and times will be allotted. Whichever date and time the majority of the owners are available, will become our official draft date. 
+-	If you cannot make the draft, you will be held responsible to find someone who can draft for you. You must notify the league commissioners on who will be responsible for your draft picks. If you cannot find anyone, AUTODRAFT.
+Section 5: Scoring System
+
+-	We play in a 12 team points per reception fantasy football league.
+-	The league scoring system breakdown is listed on the fantasy app. 
+ 
+5.1: Voting on Scoring System
+ 
+-	Each season at the draft, owners can bring forth any scoring proposals they would like to see changed. If the proposal is well received, we will proceed with a league vote. If the proposal receives a majority vote, it will be approved.
+ 
+Section 6: Postseason
+
+6.1: Playoffs
+ 
+-	At the end of the season 6 teams will make the playoffs. TOP 6 TEAMS make the playoffs with the top TWO receiving a bye week the first week of the playoffs. 
+ 
+6.2: Playoff Tiebreakers
+ 
+-	If two teams tie in the playoffs, the playoff tiebreaker will be bench points scored. If they are also tied in bench points, it will go to a coin flip.
+ 
+6.3: Seeding Tiebreakers
+ 
+-	If two teams finish with the same record the tiebreakers will go as followed:
+1.     Head 2 Head Record
+2.    Total Points For
+3.     Total Points Against
+
+Section 7: Amendments
+
+I.	Damar Hamlin Clause 
+ In case of severe injury/death in late seasons, a game which results in being called as is, or not played, the outcome determined by the NFL is final.
+II.	Marshon Sheezy Clause  
+Failure to finish punishment by a set date (determined by the commissioner at the end of the season) will result in fine or removal from the league. The final decision is determined by a league vote. 
+III.	Mac Clause   
+Every player pick-up that exceeds the allotted amount (4) will be subject to a fine ($3).Resets after every week, no carry-overs. 
+IV.	Week Winner Clause 
+Each week there will be an optional pot in which owners can choose to bet on themselves to be the weekly high scorer. The owner with the highest score wins the full pot. Only owners who pitch in are eligible to receive winnings. $5 limit per owner a week. 
+V.	Bet Clause 
+All bets agreed upon in the group chat are final and legal tender (i.e. a bet that results in a name change…).  Functional changes not allowed, no bets for players/draft picks/etc. 
+VI.	Waiver Wire Amendment
+The waiver wire order is initially set after the draft and it is to be the reverse order of the draft order for that year.
+VII.	Trading Amendment
+The exact same trade cannot be made more than one (1) time per week. 
+VIII.	Bos Clause
+If it is deemed by the league (majority vote) that a team owner is intentionally tanking/self-destructing/sabotaging the integrity of the league, the commissioners have the responsibility and power to restore the integrity of the league. 
+
+
+IX.	Trophy Clause
+	If someone loses or damages the trophy beyond repair, than the person responsible is solely responsible for replacing the trophy back to its most recent state before the loss or damaged occurred. 
+X.	Mid-Season Vote Amendment
+	Any mid-season vote that involves changing/adding/removing a rule must be met with 75% (9/12) approval in order to be put into effect.
+
+Section 9: History
+
+9.1: Commissioners
+	2022 - Chris Ruiz
+	2023 - Ryan / Evan
+	2024 -  Keen / Evan 
+	2025 - Evan / Keen
+	2026 - Evan
+	
+9.2: Winners
+	2022 - Evan
+	2023 - Jaz 
+	2024 - Ryan
+	2025 - Bosler
+
+9.3: Losers
+	2022-2023 - Dev / Josh
+	2023-2024 - Marshon “Sheezy”
+	2024-2025 - Jas
+
+9.4: Other history:
+
+2022 league members (8-man league):
+	-Chris
+	-Josh
+	-Keener
+	-Evan
+	-Devang
+	-Ryan
+	-Jordon		:	Left league because of devine intervention
+	-Connor (J) 	:	Kicked out of league because he forgot his ESPN password
+
+- Demar Hamilon died on the field in 2022 to give Evan a marginal victory over Jordon.
+
+2023 league members (10-man league):
+	-Chris
+	-Josh
+	-Keener
+	-Evan
+	-Devang
+	-Ryan
+	-Jaz		:	New addition
+	-Taylor		:	New addition	
+	-Colin		:	New addition
+	-Marshon	:	Kicked out of league by devang for refusing to do punishment
+
+- Josh decides to take a 2-year hiatus 
+
+2024 league members (12-man league) MODERN ERA:
+	-Chris
+	-Keener
+	-Evan
+	-Devang
+	-Ryan
+	-Jaz
+	-Taylor
+	-Colin
+	-Shawn		:	New addition
+	-Wyatt		:	New addition
+	-Matt		:	New addition
+	-Bosler		: 	New addition
+
+- Devang oversleeps and misses the first 3 rounds of the daft.
+- Colin somehow falls asleep mid draft; misses rounds 6-8.
+
+2025 league members: 
+	-Chris
+	-Keener
+	-Evan
+	-Devang
+	-Ryan
+	-Jaz
+	-Taylor
+	-Colin
+	-Shawn
+	-Wyatt
+	-Matt	
+	-Bosler		:	Voted out of league
+
+- Bosler and Jaz cause upheaval in the league by trade spamming.
+
+2026 league members:
+	-Chris
+	-Keener
+	-Evan
+	-Devang
+	-Ryan
+	-Jaz
+	-Taylor
+	-Colin
+	-Shawn
+	-Wyatt
+	-Matt	
+	-Josh		:	Josh returns to the league
+
+CURENT DAY

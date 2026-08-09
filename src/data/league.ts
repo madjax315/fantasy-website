@@ -1,58 +1,78 @@
 export const league = [
   {
     manager: "Evan Finger",
-    nascar: "Ty Dillon",
-
-    keepers: [
-      {
-        player: "Bo Nix",
-        round: 8,
-        years: 2,
-        signed: 2025
-      },
-      {
-        player: "Courtland Sutton",
-        round: 7,
-        years: 2,
-        signed: 2025
-      },
-      {
-        player: "Chris Godwin",
-        round: 9,
-        years: 1,
-        signed: 2026
-      }
-    ],
-
-    contractYearsUsed: 2
+    nascar: "John Hunter Nemechek",
+    qualifyingPosition: 21,
+    finishingPosition: null
   },
 
   {
     manager: "Ryan Finger",
     nascar: "Erik Jones",
-
-    keepers: [
-      {
-        player: "Jalen Hurts",
-        round: 4,
-        years: 2,
-        signed: 2025
-      },
-      {
-        player: "Ladd McConkey",
-        round: 10,
-        years: 2,
-        signed: 2025
-      },
-      {
-        player: "George Pickens",
-        round: 7,
-        years: 2,
-        signed: 2026
-      }
-    ],
-
-    contractYearsUsed: 4
+    qualifyingPosition: 10,
+    finishingPosition: null
   },
 
-]; 
+  {
+    manager: "Wyatt MacGaffey",
+    nascar: "Josh Berry",
+    qualifyingPosition: 13,
+    finishingPosition: null
+  },
+
+  {
+    manager: "Colin MacGaffey",
+    nascar: "Daniel Suarez",
+    qualifyingPosition: 33,
+    finishingPosition: null
+  },
+
+  {
+    manager: "Shawn Lenahan",
+    nascar: "Michael McDowell",
+    qualifyingPosition: 11,
+    finishingPosition: null
+  },
+
+  {
+    manager: "Ryan Keener",
+    nascar: "Ross Chastain",
+    qualifyingPosition: 9,
+    finishingPosition: null
+  },
+
+  {
+    manager: "Jas Gill",
+    nascar: "Austin Cindric",
+    qualifyingPosition: 12,
+    finishingPosition: null
+  },
+
+  {
+    manager: "Chris Ruiz",
+    nascar: "AJ Allmendinger",
+    qualifyingPosition: 25,
+    finishingPosition: null
+  },
+
+  {
+    manager: "Matt Wynn",
+    nascar: "Austin Dillon",
+    qualifyingPosition: 7,
+    finishingPosition: null
+  },
+
+  {
+    manager: "Devang Patel",
+    nascar: "Ricky Stenhouse Jr.",
+    qualifyingPosition: 16,
+    finishingPosition: null
+  },
+
+  {
+    manager: "Taylor Ewashinka",
+    nascar: "Shane van Gisbergen",
+    qualifyingPosition: 23,
+    finishingPosition: null
+  }
+];
