@@ -1,0 +1,640 @@
+Round 1
+NO.
+Player
+Team
+1
+Christian McCaffrey SF, RB
+Armadillos
+2
+Amon-Ra St. Brown Det, WR
+Ganja
+3
+Bijan Robinson Atl, RB
+Prestige Worldwide FC
+4
+Tyreek Hill Mia, WR
+Tess tickles
+5
+Breece Hall NYJ, RB
+Wizard of Boz
+6
+CeeDee Lamb Dal, WR
+Ceedee's TDS
+7
+Justin Jefferson Min, WR
+Air Jefferson
+8
+Ja'Marr Chase Cin, WR
+Going to Waffle House
+9
+Jonathan Taylor Ind, RB
+Taylor Gang Ohio Chapter
+10
+Saquon Barkley Phi, RB
+Fingr Blaster
+11
+Garrett Wilson NYJ, WR
+The Short Bus
+12
+A.J. Brown Phi, WR
+Au Jus Sauce
+Round 2
+NO.
+Player
+Team
+1
+Puka Nacua LAR, WR
+Au Jus Sauce
+2
+Derrick Henry Bal, RB
+The Short Bus
+3
+Jahmyr Gibbs Det, RB
+Fingr Blaster
+4
+Mike Evans TB, WR
+Taylor Gang Ohio Chapter
+5
+Isiah Pacheco KC, RB
+Going to Waffle House
+6
+Travis Etienne Jr. Jax, RB
+Air Jefferson
+7
+Marvin Harrison Jr. Ari, WR
+Ceedee's TDS
+8
+Chris Olave NO, WR
+Wizard of Boz
+9
+Kyren Williams LAR, RB
+Tess tickles
+10
+James Cook Buf, RB
+Prestige Worldwide FC
+11
+Rachaad White TB, RB
+Ganja
+12
+Alvin Kamara NO, RB
+Armadillos
+Round 3
+NO.
+Player
+Team
+1
+Michael Pittman Jr. Ind, WR
+Armadillos
+2
+Travis Kelce KC, TE
+Ganja
+3
+Davante Adams LAR, WR
+Prestige Worldwide FC
+4
+DK Metcalf Pit, WR
+Tess tickles
+5
+Josh Jacobs GB, RB
+Wizard of Boz
+6
+DJ Moore Chi, WR
+Ceedee's TDS
+7
+Nico Collins Hou, WR
+Air Jefferson
+8
+Kenneth Walker III Sea, RB
+Going to Waffle House
+9
+Stefon Diggs Hou, WR
+Taylor Gang Ohio Chapter
+10
+Drake London Atl, WR
+Fingr Blaster
+11
+De'Von Achane Mia, RB
+The Short Bus
+12
+Malik Nabers NYG, WR
+Au Jus Sauce
+Round 4
+NO.
+Player
+Team
+1
+Deebo Samuel Sr. Wsh, WR
+Au Jus Sauce
+2
+DeVonta Smith Phi, WR
+The Short Bus
+3
+Jalen Hurts Phi, QB
+Fingr Blaster
+4
+Joe Mixon Hou, RB
+Taylor Gang Ohio Chapter
+5
+Brandon Aiyuk SF, WR
+Going to Waffle House
+6
+Sam LaPorta Det, TE
+Air Jefferson
+7
+Patrick Mahomes KC, QB
+Ceedee's TDS
+8
+Jaylen Waddle Mia, WR
+Wizard of Boz
+9
+Josh Allen Buf, QB
+Tess tickles
+10
+Lamar Jackson Bal, QB
+Prestige Worldwide FC
+11
+C.J. Stroud Hou, QB
+Ganja
+12
+Calvin Ridley Ten, WR
+Armadillos
+Round 5
+NO.
+Player
+Team
+1
+Dak Prescott Dal, QB
+Armadillos
+2
+D'Andre Swift Chi, RB
+Ganja
+3
+George Pickens Pit, WR
+Prestige Worldwide FC
+4
+Zay Flowers Bal, WR
+Tess tickles
+5
+Evan Engram Den, TE
+Wizard of Boz
+6
+Aaron Jones Min, RB
+Ceedee's TDS
+7
+Cooper Kupp Sea, WR
+Air Jefferson
+8
+Anthony Richardson Ind, QB
+Going to Waffle House
+9
+Rashee Rice KC, WR
+Taylor Gang Ohio Chapter
+10
+Mark Andrews Bal, TE
+Fingr Blaster
+11
+Tee Higgins Cin, WR
+The Short Bus
+12
+Trey McBride Ari, TE
+Au Jus Sauce
+Round 6
+NO.
+Player
+Team
+1
+Joe Burrow Cin, QB
+Au Jus Sauce
+2
+Kyler Murray Ari, QB
+The Short Bus
+3
+David Montgomery Det, RB
+Fingr Blaster
+4
+Jordan Love GB, QB
+Taylor Gang Ohio Chapter
+5
+Dalton Kincaid Buf, TE
+Going to Waffle House
+6
+Zamir White LV, RB
+Air Jefferson
+7
+Javonte Williams Dal, RB
+Ceedee's TDS
+8
+Diontae Johnson Bal, WR
+Wizard of Boz
+9
+George Kittle SF, TE
+Tess tickles
+10
+David Njoku Cle, TE
+Prestige Worldwide FC
+11
+Jayden Daniels Wsh, QB
+Ganja
+12
+Jake Ferguson Dal, TE
+Armadillos
+Round 7
+NO.
+Player
+Team
+1
+Amari Cooper Buf, WR
+Armadillos
+2
+Aaron Rodgers FA, QB
+Ganja
+3
+James Conner Ari, RB
+Prestige Worldwide FC
+4
+Najee Harris LAC, RB
+Tess tickles
+5
+Terry McLaurin Wsh, WR
+Wizard of Boz
+6
+Rome Odunze Chi, WR
+Ceedee's TDS
+7
+Christian Kirk Hou, WR
+Air Jefferson
+8
+Tank Dell Hou, WR
+Going to Waffle House
+9
+Kyle Pitts Atl, TE
+Taylor Gang Ohio Chapter
+10
+Chris Godwin TB, WR
+Fingr Blaster
+11
+Keenan Allen Chi, WR
+The Short Bus
+12
+Rhamondre Stevenson NE, RB
+Au Jus Sauce
+Round 8
+NO.
+Player
+Team
+1
+Brian Robinson Jr. Wsh, RB
+Au Jus Sauce
+2
+Dallas Goedert Phi, TE
+The Short Bus
+3
+Tyjae Spears Ten, RB
+Fingr Blaster
+4
+Jaxon Smith-Njigba Sea, WR
+Taylor Gang Ohio Chapter
+5
+Courtland Sutton Den, WR
+Going to Waffle House
+6
+Tony Pollard Ten, RB
+Air Jefferson
+7
+Austin Ekeler Wsh, RB
+Ceedee's TDS
+8
+Xavier Worthy KC, WR
+Wizard of Boz
+9
+Jaylen Warren Pit, RB
+Tess tickles
+10
+Keon Coleman Buf, WR
+Prestige Worldwide FC
+11
+Christian Watson GB, WR
+Ganja
+12
+Ezekiel Elliott FA, RB
+Armadillos
+Round 9
+NO.
+Player
+Team
+1
+Jakobi Meyers LV, WR
+Armadillos
+2
+J.K. Dobbins LAC, RB
+Ganja
+3
+Jonathon Brooks Car, RB
+Prestige Worldwide FC
+4
+Browns D/ST Cle, D/ST
+Tess tickles
+5
+Caleb Williams Chi, QB
+Wizard of Boz
+6
+Brock Bowers LV, TE
+Ceedee's TDS
+7
+Devin Singletary NYG, RB
+Air Jefferson
+8
+Raheem Mostert LV, RB
+Going to Waffle House
+9
+Harrison Butker KC, K
+Taylor Gang Ohio Chapter
+10
+Jayden Reed GB, WR
+Fingr Blaster
+11
+Chase Brown Cin, RB
+The Short Bus
+12
+Brock Purdy SF, QB
+Au Jus Sauce
+Round 10
+NO.
+Player
+Team
+1
+Cowboys D/ST Dal, D/ST
+Au Jus Sauce
+2
+Jerry Jeudy Cle, WR
+The Short Bus
+3
+Ladd McConkey LAC, WR
+Fingr Blaster
+4
+Jerome Ford Cle, RB
+Taylor Gang Ohio Chapter
+5
+Gus Edwards FA, RB
+Going to Waffle House
+6
+Jared Goff Det, QB
+Air Jefferson
+7
+Nick Chubb Cle, RB
+Ceedee's TDS
+8
+Jaleel McLaughlin Den, RB
+Wizard of Boz
+9
+Jordan Addison Min, WR
+Tess tickles
+10
+Trey Benson Ari, RB
+Prestige Worldwide FC
+11
+Chuba Hubbard Car, RB
+Ganja
+12
+Zack Moss Cin, RB
+Armadillos
+Round 11
+NO.
+Player
+Team
+1
+Jets D/ST NYJ, D/ST
+Armadillos
+2
+Darnell Mooney Atl, WR
+Ganja
+3
+Brian Thomas Jr. Jax, WR
+Prestige Worldwide FC
+4
+DeAndre Hopkins Bal, WR
+Tess tickles
+5
+Jameson Williams Det, WR
+Wizard of Boz
+6
+Blake Corum LAR, RB
+Ceedee's TDS
+7
+Mike Williams LAC, WR
+Air Jefferson
+8
+Justin Herbert LAC, QB
+Going to Waffle House
+9
+DeMario Douglas NE, WR
+Taylor Gang Ohio Chapter
+10
+T.J. Hockenson Min, TE
+Fingr Blaster
+11
+Tyler Lockett FA, WR
+The Short Bus
+12
+Hunter Henry NE, TE
+Au Jus Sauce
+Round 12
+NO.
+Player
+Team
+1
+Cole Kmet Chi, TE
+Au Jus Sauce
+2
+Ravens D/ST Bal, D/ST
+The Short Bus
+3
+Hollywood Brown KC, WR
+Fingr Blaster
+4
+Kirk Cousins Atl, QB
+Taylor Gang Ohio Chapter
+5
+Pat Freiermuth Pit, TE
+Going to Waffle House
+6
+Khalil Shakir Buf, WR
+Air Jefferson
+7
+49ers D/ST SF, D/ST
+Ceedee's TDS
+8
+Joshua Palmer Buf, WR
+Wizard of Boz
+9
+Zach Charbonnet Sea, RB
+Tess tickles
+10
+Adonai Mitchell Ind, WR
+Prestige Worldwide FC
+11
+Gabe Davis Jax, WR
+Ganja
+12
+Tua Tagovailoa Mia, QB
+Armadillos
+Round 13
+NO.
+Player
+Team
+1
+Ty Chandler Min, RB
+Armadillos
+2
+Tyler Allgeier Atl, RB
+Ganja
+3
+MarShawn Lloyd GB, RB
+Prestige Worldwide FC
+4
+Ja'Lynn Polk NE, WR
+Tess tickles
+5
+Bucky Irving TB, RB
+Wizard of Boz
+6
+Matthew Stafford LAR, QB
+Ceedee's TDS
+7
+Adam Thielen Car, WR
+Air Jefferson
+8
+Antonio Gibson NE, RB
+Going to Waffle House
+9
+Steelers D/ST Pit, D/ST
+Taylor Gang Ohio Chapter
+10
+Clyde Edwards-Helaire NO, RB
+Fingr Blaster
+11
+Dalton Schultz Hou, TE
+The Short Bus
+12
+Khalil Herbert Ind, RB
+Au Jus Sauce
+Round 14
+NO.
+Player
+Team
+1
+Justin Tucker Bal, K
+Au Jus Sauce
+2
+Rico Dowdle Car, RB
+The Short Bus
+3
+Trevor Lawrence Jax, QB
+Fingr Blaster
+4
+Tyler Conklin NYJ, TE
+Taylor Gang Ohio Chapter
+5
+Brandin Cooks Dal, WR
+Going to Waffle House
+6
+Jake Elliott Phi, K
+Air Jefferson
+7
+Ka'imi Fairbairn Hou, K
+Ceedee's TDS
+8
+Jordan Mason Min, RB
+Wizard of Boz
+9
+Deshaun Watson Cle, QB
+Tess tickles
+10
+Baker Mayfield TB, QB
+Prestige Worldwide FC
+11
+Bears D/ST Chi, D/ST
+Ganja
+12
+Jake Moody SF, K
+Armadillos
+Round 15
+NO.
+Player
+Team
+1
+Taysom Hill NO, TE
+Armadillos
+2
+Cairo Santos Chi, K
+Ganja
+3
+Chiefs D/ST KC, D/ST
+Prestige Worldwide FC
+4
+Rashid Shaheed NO, WR
+Tess tickles
+5
+Brandon Aubrey Dal, K
+Wizard of Boz
+6
+Jaylen Wright Mia, RB
+Ceedee's TDS
+7
+Dolphins D/ST Mia, D/ST
+Air Jefferson
+8
+Saints D/ST NO, D/ST
+Going to Waffle House
+9
+Curtis Samuel Buf, WR
+Taylor Gang Ohio Chapter
+10
+Jaguars D/ST Jax, D/ST
+Fingr Blaster
+11
+Russell Wilson Pit, QB
+The Short Bus
+12
+Romeo Doubs GB, WR
+Au Jus Sauce
+Round 16
+NO.
+Player
+Team
+1
+Tyler Boyd Ten, WR
+Au Jus Sauce
+2
+Evan McPherson Cin, K
+The Short Bus
+3
+Younghoe Koo Atl, K
+Fingr Blaster
+4
+Michael Wilson Ari, WR
+Taylor Gang Ohio Chapter
+5
+Dustin Hopkins Cle, K
+Going to Waffle House
+6
+Alexander Mattison Mia, RB
+Air Jefferson
+7
+Will Levis Ten, QB
+Ceedee's TDS
+8
+Bengals D/ST Cin, D/ST
+Wizard of Boz
+9
+Greg Zuerlein NYJ, K
+Tess tickles
+10
+Matt Gay Ind, K
+Prestige Worldwide FC
+11
+Xavier Legette Car, WR
+Ganja
+12
+Ricky Pearsall SF, WR
+Armadillos
