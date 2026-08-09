@@ -1,5 +1,19 @@
 ---
 import { league } from "../data/league";
+
+/*
+  Sort by race finish once results are available.
+  Until then, sort by qualifying position.
+*/
+const raceStandings = [...league].sort((a, b) => {
+    const aPosition =
+        a.finishingPosition ?? a.qualifyingPosition;
+
+    const bPosition =
+        b.finishingPosition ?? b.qualifyingPosition;
+
+    return aPosition - bPosition;
+});
 ---
 
 <section class="league-card">
@@ -21,7 +35,7 @@ import { league } from "../data/league";
         </thead>
 
         <tbody>
-            {league.map((member) => (
+            {raceStandings.map((member) => (
                 <tr>
                     <td>{member.manager}</td>
 
