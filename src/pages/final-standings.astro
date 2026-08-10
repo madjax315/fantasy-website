@@ -1,0 +1,80 @@
+---
+const base = import.meta.env.BASE_URL;
+---
+
+<div class="standings-page">
+  <a class="back-home" href={base}>
+    ← Home
+  </a>
+
+  <h1>Fantasy Football Final Standings</h1>
+
+  <section class="standings-section">
+    <h2>2025 Final Standings</h2>
+
+    <img
+      src={`${base}images/2025-final-standings.png`}
+      alt="2025 Fantasy Football Final Standings"
+      class="standings-image"
+    />
+  </section>
+
+  <section class="standings-section">
+    <h2>2024 Final Standings</h2>
+
+    <img
+      src={`${base}images/2024-final-standings.png`}
+      alt="2024 Fantasy Football Final Standings"
+      class="standings-image"
+    />
+  </section>
+</div>
+
+<style>
+  :global(body) {
+    margin: 0;
+    background: #090909;
+    color: #ffffff;
+  }
+
+  .standings-page {
+    min-height: 100vh;
+    background: #090909;
+    padding: 30px 10px 60px;
+  }
+
+  .back-home {
+    display: inline-block;
+    color: #d4af37;
+    font-size: 18px;
+    text-decoration: none;
+    margin-bottom: 30px;
+  }
+
+  h1 {
+    text-align: center;
+    color: #d4af37;
+    margin-bottom: 40px;
+  }
+
+  h2 {
+    text-align: center;
+    color: #d4af37;
+    margin-bottom: 15px;
+  }
+
+  .standings-section {
+    width: 100%;
+    margin: 0 auto 60px;
+    text-align: center;
+  }
+
+  .standings-image {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    object-fit: contain;
+  }
+</style>

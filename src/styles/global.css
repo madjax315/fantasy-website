@@ -652,4 +652,11 @@ tbody tr:hover{
 
     }
 
+}.draft-image {
+  display: block;
+  width: 100%;
+  max-width: 1000px;
+  height: auto;
+  margin: 2rem auto;
+  border-radius: 8px;
 }

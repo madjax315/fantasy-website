@@ -1,0 +1,233 @@
+---
+const draftPositions = [
+  { position: 1, manager: "Josh", priority: 1 },
+  { position: 2, manager: null, priority: null },
+  { position: 3, manager: null, priority: null },
+  { position: 4, manager: null, priority: null },
+  { position: 5, manager: null, priority: null },
+  { position: 6, manager: null, priority: null },
+  { position: 7, manager: null, priority: null },
+  { position: 8, manager: null, priority: null },
+  { position: 9, manager: null, priority: null },
+  { position: 10, manager: null, priority: null },
+  { position: 11, manager: null, priority: null },
+  { position: 12, manager: "Wyatt", priority: 2 },
+];
+
+const onTheClock = "Keener";
+const currentPriority = 3;
+
+const ordinal = (number) => {
+  const suffixes = ["th", "st", "nd", "rd"];
+  const value = number % 100;
+
+  return (
+    number +
+    (suffixes[(value - 20) % 10] ||
+      suffixes[value] ||
+      suffixes[0])
+  );
+};
+---
+
+<section class="draft-order">
+
+  <div class="header">
+    <p class="eyebrow">2026 SEASON</p>
+    <h2>DRAFT ORDER</h2>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Draft Pick</th>
+        <th>Manager</th>
+        <th>Priority</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      {
+        draftPositions.map((pick) => (
+          <tr class={pick.manager ? "selected" : ""}>
+
+            <td class="draft-pick">
+              #{pick.position}
+            </td>
+
+            <td class="manager">
+              {pick.manager ?? "Available"}
+            </td>
+
+            <td class="priority">
+              {pick.priority
+                ? ordinal(pick.priority)
+                : "—"}
+            </td>
+
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+
+</section>
+
+<style>
+
+  .draft-order {
+    width: min(800px, calc(100% - 30px));
+    margin: 40px auto;
+    background: #151515;
+    border: 1px solid #b08d2c;
+    border-radius: 12px;
+    overflow: hidden;
+  }
+
+  .header {
+    text-align: center;
+    padding: 25px;
+    background: #090909;
+  }
+
+  .eyebrow {
+    color: #b08d2c;
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    margin: 0 0 5px;
+  }
+
+  h2 {
+    color: #d4af37;
+    font-size: 30px;
+    margin: 0;
+  }
+
+  /* ON THE CLOCK */
+
+  .on-clock {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+
+    padding: 15px;
+
+    background: #d4af37;
+    color: #090909;
+  }
+
+  .on-clock span {
+    font-size: 11px;
+    font-weight: 900;
+    letter-spacing: 1.5px;
+  }
+
+  .on-clock strong {
+    font-size: 21px;
+  }
+
+  .on-clock small {
+    font-weight: 700;
+  }
+
+  /* TABLE */
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  th {
+    background: #090909;
+    color: #b08d2c;
+
+    padding: 12px;
+
+    font-size: 11px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+  }
+
+  td {
+    padding: 14px 12px;
+    text-align: center;
+
+    border-bottom: 1px solid #333;
+
+    color: #d5d5d5;
+  }
+
+  tbody tr:last-child td {
+    border-bottom: none;
+  }
+
+  .draft-pick {
+    width: 25%;
+
+    color: #d4af37;
+
+    font-size: 22px;
+    font-weight: 900;
+  }
+
+  .manager {
+    width: 50%;
+    font-size: 17px;
+    font-weight: 700;
+  }
+
+  .priority {
+    width: 25%;
+  }
+
+  .selected {
+    background: #1d1d1d;
+  }
+
+  .selected .manager {
+    color: #ffffff;
+  }
+
+  /* MOBILE */
+
+  @media (max-width: 600px) {
+
+    .draft-order {
+      width: calc(100% - 20px);
+      margin: 25px auto;
+    }
+
+    h2 {
+      font-size: 24px;
+    }
+
+    .on-clock {
+      gap: 8px;
+    }
+
+    .on-clock strong {
+      font-size: 18px;
+    }
+
+    th {
+      padding: 10px 5px;
+      font-size: 9px;
+    }
+
+    td {
+      padding: 12px 5px;
+    }
+
+    .draft-pick {
+      font-size: 19px;
+    }
+
+    .manager {
+      font-size: 15px;
+    }
+
+  }
+
+</style>
