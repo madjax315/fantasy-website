@@ -17,7 +17,7 @@ const draftPositions = [
 const onTheClock = "Keener";
 const currentPriority = 3;
 
-const ordinal = (number) => {
+const ordinal = (number: number) => {
   const suffixes = ["th", "st", "nd", "rd"];
   const value = number % 100;
 
@@ -28,6 +28,7 @@ const ordinal = (number) => {
       suffixes[0])
   );
 };
+---
 ---
 
 <section class="draft-order">
