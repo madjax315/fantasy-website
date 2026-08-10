@@ -3,7 +3,7 @@ export const league = [
     manager: "Evan",
     nascar: "John Hunter Nemechek",
     qualifyingPosition: 21,
-    finishingPosition: null,
+    finishingPosition: 6,
     draftPosition: null
   },
 
@@ -11,7 +11,7 @@ export const league = [
     manager: "Ryan",
     nascar: "Erik Jones",
     qualifyingPosition: 10,
-    finishingPosition: null,
+    finishingPosition: 11,
     draftPosition: null
   },
 
@@ -19,7 +19,7 @@ export const league = [
     manager: "Wyatt",
     nascar: "Josh Berry",
     qualifyingPosition: 13,
-    finishingPosition: null,
+    finishingPosition: 1,
     draftPosition: null
   },
 
@@ -27,7 +27,7 @@ export const league = [
     manager: "Colin",
     nascar: "Daniel Suarez",
     qualifyingPosition: 33,
-    finishingPosition: null,
+    finishingPosition: 7,
     draftPosition: null
   },
 
@@ -35,7 +35,7 @@ export const league = [
     manager: "Shawn",
     nascar: "Michael McDowell",
     qualifyingPosition: 11,
-    finishingPosition: null,
+    finishingPosition: 8,
     draftPosition: null
   },
 
@@ -43,7 +43,7 @@ export const league = [
     manager: "Keen",
     nascar: "Ross Chastain",
     qualifyingPosition: 9,
-    finishingPosition: null,
+    finishingPosition: 2,
     draftPosition: null
   },
 
@@ -51,7 +51,7 @@ export const league = [
     manager: "Jaz",
     nascar: "Austin Cindric",
     qualifyingPosition: 12,
-    finishingPosition: null,
+    finishingPosition: 9,
     draftPosition: null
   },
 
@@ -59,7 +59,7 @@ export const league = [
     manager: "Chris",
     nascar: "AJ Allmendinger",
     qualifyingPosition: 25,
-    finishingPosition: null,
+    finishingPosition: 3,
     draftPosition: null
   },
 
@@ -67,7 +67,7 @@ export const league = [
     manager: "Matt",
     nascar: "Austin Dillon",
     qualifyingPosition: 7,
-    finishingPosition: null,
+    finishingPosition: 4,
     draftPosition: null
   },
 
@@ -75,7 +75,7 @@ export const league = [
     manager: "Dev",
     nascar: "Ricky Stenhouse Jr.",
     qualifyingPosition: 16,
-    finishingPosition: null,
+    finishingPosition: 5,
     draftPosition: null
   },
 
@@ -83,7 +83,7 @@ export const league = [
     manager: "Taylor",
     nascar: "Shane van Gisbergen",
     qualifyingPosition: 23,
-    finishingPosition: null,
+    finishingPosition: 10,
     draftPosition: null
   }
 ];
