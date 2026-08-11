@@ -26,7 +26,7 @@ export const keepers: Record<string, Record<number, string>> = {
     6: "Jayden Daniels",
   },
 
-  Dev: {
+  Devang: {
     3: "Malik Nabers",
   },
 
@@ -52,7 +52,7 @@ export const keepers: Record<string, Record<number, string>> = {
     10: "Ladd McConkey",
   },
 
-  Keen: {
+  Keener: {
     6: "Jaylen Waddle",
     11: "Brian Thomas Jr.",
     12: "Caleb Williams",
