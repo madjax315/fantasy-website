@@ -106,188 +106,237 @@ function getRoundOrder(round: number) {
 </section>
 
 <style>
-  .draft-order {
-    width: min(520px, calc(100% - 30px));
-    margin: 28px auto;
-    background: #151515;
-    border: 1px solid #b08d2c;
-    border-radius: 8px;
-    overflow: hidden;
+  .draft-section {
+    width: 100%;
+    margin: 3rem auto;
   }
 
-  /* HEADER */
-
-  .header {
+  .draft-header {
     text-align: center;
-    padding: 16px;
-    background: #090909;
+    margin-bottom: 1.5rem;
   }
 
   .eyebrow {
+    margin: 0 0 0.3rem;
     color: #b08d2c;
-    font-size: 8px;
+    font-size: 0.75rem;
     font-weight: 800;
-    letter-spacing: 1.5px;
-    margin: 0 0 3px;
+    letter-spacing: 0.18em;
   }
 
-  h2 {
-    color: #d4af37;
-    font-size: 20px;
+  .draft-header h2 {
     margin: 0;
+    color: #d4af37;
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
   }
 
-  /* ON THE CLOCK */
+  .subtitle {
+    margin-top: 0.35rem;
+    color: #d5d5d5;
+    font-size: 0.9rem;
+  }
 
-  .on-clock {
+  .board-scroll {
+    width: 100%;
+    overflow-x: auto;
+    border: 1px solid #333;
+    border-radius: 10px;
+    background: #090909;
+  }
+
+  .draft-board {
+    display: grid;
+
+    grid-template-columns:
+      52px
+      repeat(12, minmax(125px, 1fr));
+
+    min-width: 1550px;
+  }
+
+  .corner-cell,
+  .manager-header {
+    position: sticky;
+    top: 0;
+    z-index: 3;
+
+    background: #151515;
+    border-right: 1px solid #333;
+    border-bottom: 2px solid #d4af37;
+
+    min-height: 65px;
+  }
+
+  .corner-cell {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 10px;
 
-    padding: 9px;
+    color: #b08d2c;
+    font-size: 0.7rem;
+    font-weight: 800;
+  }
 
-    background: #d4af37;
+  .manager-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: white;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+  }
+
+  .draft-position {
+    color: #d4af37;
+    font-size: 0.65rem;
+    margin-bottom: 3px;
+  }
+
+  .round-number {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    min-height: 82px;
+
+    background: #151515;
+    color: #d4af37;
+
+    border-right: 1px solid #333;
+    border-bottom: 1px solid #292929;
+
+    font-weight: 900;
+  }
+
+  .draft-cell {
+    position: relative;
+
+    min-height: 82px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 0.5rem;
+
+    background: #1d1d1d;
+
+    border-right: 1px solid #333;
+    border-bottom: 1px solid #292929;
+
+    text-align: center;
+  }
+
+  .draft-cell:nth-child(even) {
+    background: #1a1a1a;
+  }
+
+  .keeper-cell {
+    background:
+      linear-gradient(
+        145deg,
+        #d4af37,
+        #b08d2c
+      ) !important;
+
     color: #090909;
   }
 
-  .on-clock span {
-    font-size: 8px;
-    font-weight: 900;
-    letter-spacing: 1px;
-  }
+  .pick-number {
+    position: absolute;
+    top: 4px;
+    left: 6px;
 
-  .on-clock strong {
-    font-size: 14px;
-  }
-
-  .on-clock small {
-    font-size: 9px;
+    color: #777;
+    font-size: 0.58rem;
     font-weight: 700;
   }
 
-  /* TABLE */
-
-  table {
-    width: 100%;
-    border-collapse: collapse;
+  .keeper-cell .pick-number {
+    color: rgba(0, 0, 0, 0.55);
   }
 
-  th {
-    background: #090909;
-    color: #b08d2c;
-
-    padding: 7px;
-
-    font-size: 8px;
-    font-weight: 700;
-    letter-spacing: 0.8px;
-    text-transform: uppercase;
-  }
-
-  td {
-    padding: 8px 8px;
-    text-align: center;
-
-    border-bottom: 1px solid #333;
-
-    color: #d5d5d5;
-  }
-
-  tbody tr:last-child td {
-    border-bottom: none;
-  }
-
-  /* DRAFT POSITION */
-
-  .draft-pick {
-    width: 25%;
-
-    color: #d4af37;
-
-    font-size: 15px;
+  .keeper-name {
+    font-size: 0.82rem;
+    line-height: 1.15;
     font-weight: 900;
   }
 
-  /* MANAGER */
+  .keeper-label {
+    margin-top: 5px;
 
-  .manager {
-    width: 50%;
+    font-size: 0.55rem;
+    font-weight: 900;
+    letter-spacing: 0.12em;
 
-    font-size: 12px;
-    font-weight: 700;
+    opacity: 0.7;
   }
 
-  /* PRIORITY */
-
-  .priority {
-    width: 25%;
-
-    font-size: 11px;
+  .empty-pick {
+    color: #555;
+    font-size: 1.1rem;
   }
 
-  /* FILLED DRAFT POSITIONS */
+  .legend {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
 
-  .selected {
-    background: #1d1d1d;
+    gap: 7px;
+
+    margin-top: 0.7rem;
+
+    color: #aaa;
+    font-size: 0.75rem;
   }
 
-  .selected .manager {
-    color: #ffffff;
+  .legend-box {
+    width: 13px;
+    height: 13px;
+
+    background: #d4af37;
+
+    border-radius: 2px;
   }
 
-  /* MOBILE */
-
-  @media (max-width: 600px) {
-    .draft-order {
-      width: calc(100% - 20px);
-      margin: 18px auto;
+  @media (max-width: 700px) {
+    .draft-section {
+      margin-top: 2rem;
     }
 
-    .header {
-      padding: 13px 8px;
+    .draft-header h2 {
+      font-size: 1.55rem;
     }
 
-    h2 {
-      font-size: 18px;
+    .draft-board {
+      grid-template-columns:
+        42px
+        repeat(12, 105px);
+
+      min-width: 1302px;
     }
 
-    .on-clock {
-      gap: 6px;
-      padding: 8px 4px;
+    .draft-cell {
+      min-height: 72px;
+      padding: 0.35rem;
     }
 
-    .on-clock span {
-      font-size: 7px;
+    .round-number {
+      min-height: 72px;
     }
 
-    .on-clock strong {
-      font-size: 13px;
+    .manager-header {
+      font-size: 0.72rem;
     }
 
-    .on-clock small {
-      font-size: 9px;
-    }
-
-    th {
-      padding: 7px 3px;
-      font-size: 7px;
-    }
-
-    td {
-      padding: 7px 3px;
-    }
-
-    .draft-pick {
-      font-size: 15px;
-    }
-
-    .manager {
-      font-size: 12px;
-    }
-
-    .priority {
-      font-size: 10px;
+    .keeper-name {
+      font-size: 0.7rem;
     }
   }
 </style>
