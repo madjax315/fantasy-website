@@ -17,7 +17,7 @@ const draftPositions = [
 const onTheClock = "Keener";
 const currentPriority = 3;
 
-const ordinal = (number: number) => {
+const ordinal = (number) => {
   const suffixes = ["th", "st", "nd", "rd"];
   const value = number % 100;
 
@@ -28,7 +28,6 @@ const ordinal = (number: number) => {
       suffixes[0])
   );
 };
----
 ---
 
 <section class="draft-order">
@@ -75,33 +74,34 @@ const ordinal = (number: number) => {
 </section>
 
 <style>
-
   .draft-order {
-    width: min(800px, calc(100% - 30px));
-    margin: 40px auto;
+    width: min(650px, calc(100% - 30px));
+    margin: 35px auto;
     background: #151515;
     border: 1px solid #b08d2c;
-    border-radius: 12px;
+    border-radius: 10px;
     overflow: hidden;
   }
 
+  /* HEADER */
+
   .header {
     text-align: center;
-    padding: 25px;
+    padding: 20px;
     background: #090909;
   }
 
   .eyebrow {
     color: #b08d2c;
-    font-size: 12px;
+    font-size: 10px;
     font-weight: 800;
     letter-spacing: 2px;
-    margin: 0 0 5px;
+    margin: 0 0 4px;
   }
 
   h2 {
     color: #d4af37;
-    font-size: 30px;
+    font-size: 24px;
     margin: 0;
   }
 
@@ -111,25 +111,26 @@ const ordinal = (number: number) => {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 15px;
+    gap: 12px;
 
-    padding: 15px;
+    padding: 11px;
 
     background: #d4af37;
     color: #090909;
   }
 
   .on-clock span {
-    font-size: 11px;
+    font-size: 9px;
     font-weight: 900;
     letter-spacing: 1.5px;
   }
 
   .on-clock strong {
-    font-size: 21px;
+    font-size: 17px;
   }
 
   .on-clock small {
+    font-size: 11px;
     font-weight: 700;
   }
 
@@ -144,15 +145,16 @@ const ordinal = (number: number) => {
     background: #090909;
     color: #b08d2c;
 
-    padding: 12px;
+    padding: 9px;
 
-    font-size: 11px;
+    font-size: 9px;
+    font-weight: 700;
     letter-spacing: 1px;
     text-transform: uppercase;
   }
 
   td {
-    padding: 14px 12px;
+    padding: 10px 10px;
     text-align: center;
 
     border-bottom: 1px solid #333;
@@ -164,24 +166,35 @@ const ordinal = (number: number) => {
     border-bottom: none;
   }
 
+  /* DRAFT POSITION */
+
   .draft-pick {
     width: 25%;
 
     color: #d4af37;
 
-    font-size: 22px;
+    font-size: 18px;
     font-weight: 900;
   }
 
+  /* MANAGER */
+
   .manager {
     width: 50%;
-    font-size: 17px;
+
+    font-size: 15px;
     font-weight: 700;
   }
 
+  /* PRIORITY */
+
   .priority {
     width: 25%;
+
+    font-size: 14px;
   }
+
+  /* FILLED DRAFT POSITIONS */
 
   .selected {
     background: #1d1d1d;
@@ -194,41 +207,55 @@ const ordinal = (number: number) => {
   /* MOBILE */
 
   @media (max-width: 600px) {
-
     .draft-order {
       width: calc(100% - 20px);
-      margin: 25px auto;
+      margin: 20px auto;
+    }
+
+    .header {
+      padding: 16px 10px;
     }
 
     h2 {
-      font-size: 24px;
+      font-size: 20px;
     }
 
     .on-clock {
-      gap: 8px;
+      gap: 7px;
+      padding: 10px 5px;
+    }
+
+    .on-clock span {
+      font-size: 8px;
     }
 
     .on-clock strong {
-      font-size: 18px;
-    }
-
-    th {
-      padding: 10px 5px;
-      font-size: 9px;
-    }
-
-    td {
-      padding: 12px 5px;
-    }
-
-    .draft-pick {
-      font-size: 19px;
-    }
-
-    .manager {
       font-size: 15px;
     }
 
-  }
+    .on-clock small {
+      font-size: 10px;
+    }
 
+    th {
+      padding: 8px 4px;
+      font-size: 8px;
+    }
+
+    td {
+      padding: 9px 4px;
+    }
+
+    .draft-pick {
+      font-size: 17px;
+    }
+
+    .manager {
+      font-size: 14px;
+    }
+
+    .priority {
+      font-size: 12px;
+    }
+  }
 </style>
