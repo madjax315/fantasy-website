@@ -1,0 +1,342 @@
+---
+import { draftOrder, keepers } from "../data/pre-draft-2026";
+
+const rounds = Array.from({ length: 16 }, (_, i) => i + 1);
+
+function getRoundOrder(round: number) {
+  return round % 2 === 1
+    ? draftOrder
+    : [...draftOrder].reverse();
+}
+---
+
+<section class="draft-section">
+  <div class="draft-header">
+    <p class="eyebrow">2026 SEASON</p>
+    <h2>Draft Board</h2>
+    <p class="subtitle">
+      Official draft order and keeper selections
+    </p>
+  </div>
+
+  <div class="board-scroll">
+    <div class="draft-board">
+
+      <div class="corner-cell">
+        RD
+      </div>
+
+      {
+        draftOrder.map((manager, index) => (
+          <div class="manager-header">
+            <span class="draft-position">
+              {index + 1}
+            </span>
+
+            <span>{manager}</span>
+          </div>
+        ))
+      }
+
+      {
+        rounds.map((round) => {
+          const roundOrder = getRoundOrder(round);
+
+          return (
+            <>
+              <div class="round-number">
+                {round}
+              </div>
+
+              {
+                draftOrder.map((manager) => {
+                  const keeper = keepers[manager]?.[round];
+
+                  const pickInRound =
+                    roundOrder.indexOf(manager) + 1;
+
+                  const overallPick =
+                    (round - 1) * draftOrder.length +
+                    pickInRound;
+
+                  return (
+                    <div
+                      class:list={[
+                        "draft-cell",
+                        keeper && "keeper-cell"
+                      ]}
+                    >
+                      <span class="pick-number">
+                        {overallPick}
+                      </span>
+
+                      {
+                        keeper ? (
+                          <>
+                            <span class="keeper-name">
+                              {keeper}
+                            </span>
+
+                            <span class="keeper-label">
+                              KEEPER
+                            </span>
+                          </>
+                        ) : (
+                          <span class="empty-pick">
+                            —
+                          </span>
+                        )
+                      }
+                    </div>
+                  );
+                })
+              }
+            </>
+          );
+        })
+      }
+
+    </div>
+  </div>
+
+  <div class="legend">
+    <span class="legend-box"></span>
+    Keeper Selection
+  </div>
+</section>
+
+<style>
+  .draft-section {
+    width: 100%;
+    margin: 3rem auto;
+  }
+
+  .draft-header {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+
+  .eyebrow {
+    margin: 0 0 0.3rem;
+    color: #b08d2c;
+    font-size: 0.75rem;
+    font-weight: 800;
+    letter-spacing: 0.18em;
+  }
+
+  .draft-header h2 {
+    margin: 0;
+    color: #d4af37;
+    font-size: 2rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .subtitle {
+    margin-top: 0.35rem;
+    color: #d5d5d5;
+    font-size: 0.9rem;
+  }
+
+  .board-scroll {
+    width: 100%;
+    overflow-x: auto;
+    border: 1px solid #333;
+    border-radius: 10px;
+    background: #090909;
+  }
+
+  .draft-board {
+    display: grid;
+
+    grid-template-columns:
+      52px
+      repeat(12, minmax(125px, 1fr));
+
+    min-width: 1550px;
+  }
+
+  .corner-cell,
+  .manager-header {
+    position: sticky;
+    top: 0;
+    z-index: 3;
+
+    background: #151515;
+    border-right: 1px solid #333;
+    border-bottom: 2px solid #d4af37;
+
+    min-height: 65px;
+  }
+
+  .corner-cell {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: #b08d2c;
+    font-size: 0.7rem;
+    font-weight: 800;
+  }
+
+  .manager-header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    color: white;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+  }
+
+  .draft-position {
+    color: #d4af37;
+    font-size: 0.65rem;
+    margin-bottom: 3px;
+  }
+
+  .round-number {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    min-height: 82px;
+
+    background: #151515;
+    color: #d4af37;
+
+    border-right: 1px solid #333;
+    border-bottom: 1px solid #292929;
+
+    font-weight: 900;
+  }
+
+  .draft-cell {
+    position: relative;
+
+    min-height: 82px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 0.5rem;
+
+    background: #1d1d1d;
+
+    border-right: 1px solid #333;
+    border-bottom: 1px solid #292929;
+
+    text-align: center;
+  }
+
+  .draft-cell:nth-child(even) {
+    background: #1a1a1a;
+  }
+
+  .keeper-cell {
+    background:
+      linear-gradient(
+        145deg,
+        #d4af37,
+        #b08d2c
+      ) !important;
+
+    color: #090909;
+  }
+
+  .pick-number {
+    position: absolute;
+    top: 4px;
+    left: 6px;
+
+    color: #777;
+    font-size: 0.58rem;
+    font-weight: 700;
+  }
+
+  .keeper-cell .pick-number {
+    color: rgba(0, 0, 0, 0.55);
+  }
+
+  .keeper-name {
+    font-size: 0.82rem;
+    line-height: 1.15;
+    font-weight: 900;
+  }
+
+  .keeper-label {
+    margin-top: 5px;
+
+    font-size: 0.55rem;
+    font-weight: 900;
+    letter-spacing: 0.12em;
+
+    opacity: 0.7;
+  }
+
+  .empty-pick {
+    color: #555;
+    font-size: 1.1rem;
+  }
+
+  .legend {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+
+    gap: 7px;
+
+    margin-top: 0.7rem;
+
+    color: #aaa;
+    font-size: 0.75rem;
+  }
+
+  .legend-box {
+    width: 13px;
+    height: 13px;
+
+    background: #d4af37;
+
+    border-radius: 2px;
+  }
+
+  @media (max-width: 700px) {
+    .draft-section {
+      margin-top: 2rem;
+    }
+
+    .draft-header h2 {
+      font-size: 1.55rem;
+    }
+
+    .draft-board {
+      grid-template-columns:
+        42px
+        repeat(12, 105px);
+
+      min-width: 1302px;
+    }
+
+    .draft-cell {
+      min-height: 72px;
+      padding: 0.35rem;
+    }
+
+    .round-number {
+      min-height: 72px;
+    }
+
+    .manager-header {
+      font-size: 0.72rem;
+    }
+
+    .keeper-name {
+      font-size: 0.7rem;
+    }
+  }
+</style>

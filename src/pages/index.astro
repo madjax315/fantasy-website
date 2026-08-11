@@ -5,15 +5,17 @@ import Layout from "../layouts/layout.astro";
 import Navbar from "../components/Navbar.astro";
 import LeagueMembers from "../components/LeagueMembers.astro";
 import KeepersCard from "../components/KeepersCard.astro";
+import DraftBoard from "../components/DraftBoard.astro";
 import DraftOrder from "../components/DraftOrder.astro";
-
 ---
 
 <Layout>
-    <Navbar />
-    <DraftCountdown />
-    <DraftOrder/>
-    <LeagueMembers />
-    <KeepersCard />
-    <AllTimeStandings />
+  <Navbar />
+  <DraftCountdown />
+  <DraftBoard />
+  <DraftOrder />
+  <LeagueMembers />
+  <KeepersCard />
+  <AllTimeStandings />
 </Layout>
+
